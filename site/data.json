@@ -1,0 +1,5959 @@
+{
+  "activities": [
+    {
+      "date": "2019-06-30",
+      "hour": 13,
+      "name": "Heat",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/2492250214",
+      "year": 2019
+    },
+    {
+      "date": "2019-07-16",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/2537709505",
+      "year": 2019
+    },
+    {
+      "date": "2019-09-01",
+      "hour": 2,
+      "name": "Radfahrt nachts",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/2669617387",
+      "year": 2019
+    },
+    {
+      "date": "2020-03-22",
+      "hour": 16,
+      "name": "Radfahrt am Nachmittag",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/3207383965",
+      "year": 2020
+    },
+    {
+      "date": "2020-03-22",
+      "hour": 16,
+      "name": "Radfahrt am Nachmittag",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/3207446995",
+      "year": 2020
+    },
+    {
+      "date": "2020-03-28",
+      "hour": 15,
+      "name": "Radfahrt am Nachmittag",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/3227601025",
+      "year": 2020
+    },
+    {
+      "date": "2020-03-31",
+      "hour": 19,
+      "name": "Radfahrt am Abend",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/3239416421",
+      "year": 2020
+    },
+    {
+      "date": "2020-04-08",
+      "hour": 15,
+      "name": "Radfahrt am Nachmittag",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/3270835700",
+      "year": 2020
+    },
+    {
+      "date": "2020-04-08",
+      "hour": 15,
+      "name": "Radfahrt am Nachmittag",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/3271063331",
+      "year": 2020
+    },
+    {
+      "date": "2020-04-09",
+      "hour": 13,
+      "name": "HomeSweetHome",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/3275188561",
+      "year": 2020
+    },
+    {
+      "date": "2020-04-11",
+      "hour": 14,
+      "name": "Radfahrt am Nachmittag",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/3288106703",
+      "year": 2020
+    },
+    {
+      "date": "2020-04-12",
+      "hour": 12,
+      "name": "Easy pz lemon squeeze",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/3288322784",
+      "year": 2020
+    },
+    {
+      "date": "2021-05-24",
+      "hour": 14,
+      "name": "Radfahrt am Nachmittag",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/5350194691",
+      "year": 2021
+    },
+    {
+      "date": "2021-05-29",
+      "hour": 19,
+      "name": "Radfahrt am Abend",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/5378814011",
+      "year": 2021
+    },
+    {
+      "date": "2021-09-19",
+      "hour": 13,
+      "name": "Radfahrt am Nachmittag",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/5985614155",
+      "year": 2021
+    },
+    {
+      "date": "2021-12-29",
+      "hour": 15,
+      "name": "Aktivit\u00e4t am Nachmittag",
+      "subtype": "AlpineSki",
+      "type": "AlpineSki",
+      "url": "https://www.strava.com/activities/6442373049",
+      "year": 2021
+    },
+    {
+      "date": "2021-12-29",
+      "hour": 15,
+      "name": "Aktivit\u00e4t am Nachmittag",
+      "subtype": "AlpineSki",
+      "type": "AlpineSki",
+      "url": "https://www.strava.com/activities/6442431861",
+      "year": 2021
+    },
+    {
+      "date": "2021-12-29",
+      "hour": 15,
+      "name": "Aktivit\u00e4t am Nachmittag",
+      "subtype": "AlpineSki",
+      "type": "AlpineSki",
+      "url": "https://www.strava.com/activities/6442615405",
+      "year": 2021
+    },
+    {
+      "date": "2021-12-30",
+      "hour": 9,
+      "name": "Aktivit\u00e4t am Morgen",
+      "subtype": "AlpineSki",
+      "type": "AlpineSki",
+      "url": "https://www.strava.com/activities/6445414422",
+      "year": 2021
+    },
+    {
+      "date": "2021-12-30",
+      "hour": 10,
+      "name": "Aktivit\u00e4t am Morgen",
+      "subtype": "AlpineSki",
+      "type": "AlpineSki",
+      "url": "https://www.strava.com/activities/6445458629",
+      "year": 2021
+    },
+    {
+      "date": "2021-12-30",
+      "hour": 10,
+      "name": "Aktivit\u00e4t am Morgen",
+      "subtype": "AlpineSki",
+      "type": "AlpineSki",
+      "url": "https://www.strava.com/activities/6445473891",
+      "year": 2021
+    },
+    {
+      "date": "2021-12-30",
+      "hour": 10,
+      "name": "Aktivit\u00e4t am Morgen",
+      "subtype": "AlpineSki",
+      "type": "AlpineSki",
+      "url": "https://www.strava.com/activities/6445531899",
+      "year": 2021
+    },
+    {
+      "date": "2021-12-30",
+      "hour": 10,
+      "name": "Aktivit\u00e4t am Morgen",
+      "subtype": "AlpineSki",
+      "type": "AlpineSki",
+      "url": "https://www.strava.com/activities/6445606633",
+      "year": 2021
+    },
+    {
+      "date": "2021-12-30",
+      "hour": 11,
+      "name": "Aktivit\u00e4t am Mittag",
+      "subtype": "AlpineSki",
+      "type": "AlpineSki",
+      "url": "https://www.strava.com/activities/6445774763",
+      "year": 2021
+    },
+    {
+      "date": "2021-12-31",
+      "hour": 9,
+      "name": "Aktivit\u00e4t am Morgen",
+      "subtype": "AlpineSki",
+      "type": "AlpineSki",
+      "url": "https://www.strava.com/activities/6449811101",
+      "year": 2021
+    },
+    {
+      "date": "2021-12-31",
+      "hour": 10,
+      "name": "Aktivit\u00e4t am Morgen",
+      "subtype": "AlpineSki",
+      "type": "AlpineSki",
+      "url": "https://www.strava.com/activities/6449971581",
+      "year": 2021
+    },
+    {
+      "date": "2021-12-31",
+      "hour": 10,
+      "name": "Aktivit\u00e4t am Morgen",
+      "subtype": "AlpineSki",
+      "type": "AlpineSki",
+      "url": "https://www.strava.com/activities/6450031052",
+      "year": 2021
+    },
+    {
+      "date": "2021-12-31",
+      "hour": 10,
+      "name": "Aktivit\u00e4t am Morgen",
+      "subtype": "AlpineSki",
+      "type": "AlpineSki",
+      "url": "https://www.strava.com/activities/6450171041",
+      "year": 2021
+    },
+    {
+      "date": "2021-12-31",
+      "hour": 11,
+      "name": "Aktivit\u00e4t am Mittag",
+      "subtype": "AlpineSki",
+      "type": "AlpineSki",
+      "url": "https://www.strava.com/activities/6450296327",
+      "year": 2021
+    },
+    {
+      "date": "2021-12-31",
+      "hour": 12,
+      "name": "Aktivit\u00e4t am Mittag",
+      "subtype": "AlpineSki",
+      "type": "AlpineSki",
+      "url": "https://www.strava.com/activities/6450504947",
+      "year": 2021
+    },
+    {
+      "date": "2021-12-31",
+      "hour": 14,
+      "name": "Aktivit\u00e4t am Nachmittag",
+      "subtype": "AlpineSki",
+      "type": "AlpineSki",
+      "url": "https://www.strava.com/activities/6451448111",
+      "year": 2021
+    },
+    {
+      "date": "2022-02-27",
+      "hour": 11,
+      "name": "Radfahrt am Mittag",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/6747862159",
+      "year": 2022
+    },
+    {
+      "date": "2023-03-26",
+      "hour": 22,
+      "name": "Nachtradfahrt",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/8783117161",
+      "year": 2023
+    },
+    {
+      "date": "2023-04-13",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/8884823654",
+      "year": 2023
+    },
+    {
+      "date": "2023-09-16",
+      "hour": 20,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/9862468820",
+      "year": 2023
+    },
+    {
+      "date": "2023-09-16",
+      "hour": 20,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/9862529910",
+      "year": 2023
+    },
+    {
+      "date": "2025-04-26",
+      "hour": 12,
+      "name": "NBD Tour",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14290896208",
+      "year": 2025
+    },
+    {
+      "date": "2025-04-27",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14304683109",
+      "year": 2025
+    },
+    {
+      "date": "2025-04-27",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14304891879",
+      "year": 2025
+    },
+    {
+      "date": "2025-04-28",
+      "hour": 20,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14323272135",
+      "year": 2025
+    },
+    {
+      "date": "2025-04-28",
+      "hour": 9,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14323272440",
+      "year": 2025
+    },
+    {
+      "date": "2025-04-29",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14323271701",
+      "year": 2025
+    },
+    {
+      "date": "2025-04-29",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14341759504",
+      "year": 2025
+    },
+    {
+      "date": "2025-04-29",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14341759800",
+      "year": 2025
+    },
+    {
+      "date": "2025-04-30",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14341758855",
+      "year": 2025
+    },
+    {
+      "date": "2025-04-30",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14341759135",
+      "year": 2025
+    },
+    {
+      "date": "2025-05-01",
+      "hour": 12,
+      "name": "Lunch Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14344004779",
+      "year": 2025
+    },
+    {
+      "date": "2025-05-04",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14383904547",
+      "year": 2025
+    },
+    {
+      "date": "2025-05-06",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14395951772",
+      "year": 2025
+    },
+    {
+      "date": "2025-05-06",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14401801616",
+      "year": 2025
+    },
+    {
+      "date": "2025-05-07",
+      "hour": 7,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14413052720",
+      "year": 2025
+    },
+    {
+      "date": "2025-05-08",
+      "hour": 0,
+      "name": "Night Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14413052266",
+      "year": 2025
+    },
+    {
+      "date": "2025-05-08",
+      "hour": 11,
+      "name": "Lunch Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14415092456",
+      "year": 2025
+    },
+    {
+      "date": "2025-05-08",
+      "hour": 14,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14437664919",
+      "year": 2025
+    },
+    {
+      "date": "2025-05-09",
+      "hour": 14,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14437664768",
+      "year": 2025
+    },
+    {
+      "date": "2025-05-10",
+      "hour": 10,
+      "name": "First 100k",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14437665293",
+      "year": 2025
+    },
+    {
+      "date": "2025-05-12",
+      "hour": 9,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14453358549",
+      "year": 2025
+    },
+    {
+      "date": "2025-05-12",
+      "hour": 20,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14477016804",
+      "year": 2025
+    },
+    {
+      "date": "2025-05-13",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14477015751",
+      "year": 2025
+    },
+    {
+      "date": "2025-05-13",
+      "hour": 9,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14477015877",
+      "year": 2025
+    },
+    {
+      "date": "2025-05-13",
+      "hour": 7,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14477016365",
+      "year": 2025
+    },
+    {
+      "date": "2025-05-14",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14482034847",
+      "year": 2025
+    },
+    {
+      "date": "2025-05-15",
+      "hour": 11,
+      "name": "Lunch Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14487383302",
+      "year": 2025
+    },
+    {
+      "date": "2025-05-17",
+      "hour": 16,
+      "name": "Threshold Test",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14509579601",
+      "year": 2025
+    },
+    {
+      "date": "2025-05-17",
+      "hour": 16,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14509579957",
+      "year": 2025
+    },
+    {
+      "date": "2025-05-17",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14509960452",
+      "year": 2025
+    },
+    {
+      "date": "2025-05-21",
+      "hour": 7,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14577545125",
+      "year": 2025
+    },
+    {
+      "date": "2025-05-24",
+      "hour": 11,
+      "name": "Lunch Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14578350463",
+      "year": 2025
+    },
+    {
+      "date": "2025-05-24",
+      "hour": 15,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14581010590",
+      "year": 2025
+    },
+    {
+      "date": "2025-05-25",
+      "hour": 10,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14590559892",
+      "year": 2025
+    },
+    {
+      "date": "2025-05-27",
+      "hour": 21,
+      "name": "Night Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14630896748",
+      "year": 2025
+    },
+    {
+      "date": "2025-05-27",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14630897378",
+      "year": 2025
+    },
+    {
+      "date": "2025-05-28",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14630895505",
+      "year": 2025
+    },
+    {
+      "date": "2025-05-28",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14630896175",
+      "year": 2025
+    },
+    {
+      "date": "2025-05-29",
+      "hour": 15,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14632929850",
+      "year": 2025
+    },
+    {
+      "date": "2025-06-02",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14675924797",
+      "year": 2025
+    },
+    {
+      "date": "2025-06-03",
+      "hour": 9,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14680020190",
+      "year": 2025
+    },
+    {
+      "date": "2025-06-03",
+      "hour": 21,
+      "name": "Night Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14706794598",
+      "year": 2025
+    },
+    {
+      "date": "2025-06-04",
+      "hour": 20,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14706792240",
+      "year": 2025
+    },
+    {
+      "date": "2025-06-04",
+      "hour": 9,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14706792967",
+      "year": 2025
+    },
+    {
+      "date": "2025-06-05",
+      "hour": 20,
+      "name": "Pyramide Intervals",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14707862758",
+      "year": 2025
+    },
+    {
+      "date": "2025-06-06",
+      "hour": 16,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14716528522",
+      "year": 2025
+    },
+    {
+      "date": "2025-06-07",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14740853175",
+      "year": 2025
+    },
+    {
+      "date": "2025-06-07",
+      "hour": 13,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14740853596",
+      "year": 2025
+    },
+    {
+      "date": "2025-06-09",
+      "hour": 9,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14741467088",
+      "year": 2025
+    },
+    {
+      "date": "2025-06-09",
+      "hour": 10,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14743728461",
+      "year": 2025
+    },
+    {
+      "date": "2025-06-09",
+      "hour": 14,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14744047323",
+      "year": 2025
+    },
+    {
+      "date": "2025-06-10",
+      "hour": 10,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14765798039",
+      "year": 2025
+    },
+    {
+      "date": "2025-06-11",
+      "hour": 11,
+      "name": "Lunch Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14765798034",
+      "year": 2025
+    },
+    {
+      "date": "2025-06-11",
+      "hour": 15,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14786298053",
+      "year": 2025
+    },
+    {
+      "date": "2025-06-13",
+      "hour": 15,
+      "name": "Kleine Runde am Abend",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14789899295",
+      "year": 2025
+    },
+    {
+      "date": "2025-06-15",
+      "hour": 12,
+      "name": "Lunch Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14808727753",
+      "year": 2025
+    },
+    {
+      "date": "2025-06-16",
+      "hour": 9,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14819321446",
+      "year": 2025
+    },
+    {
+      "date": "2025-06-16",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14819499084",
+      "year": 2025
+    },
+    {
+      "date": "2025-06-17",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14832286004",
+      "year": 2025
+    },
+    {
+      "date": "2025-06-17",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14832286523",
+      "year": 2025
+    },
+    {
+      "date": "2025-06-17",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14832286682",
+      "year": 2025
+    },
+    {
+      "date": "2025-06-17",
+      "hour": 22,
+      "name": "Night Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14839742159",
+      "year": 2025
+    },
+    {
+      "date": "2025-06-18",
+      "hour": 17,
+      "name": "Klettertraining",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14841259068",
+      "year": 2025
+    },
+    {
+      "date": "2025-06-26",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14924696099",
+      "year": 2025
+    },
+    {
+      "date": "2025-06-30",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14976702092",
+      "year": 2025
+    },
+    {
+      "date": "2025-06-30",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14976702346",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-02",
+      "hour": 6,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14980895702",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-02",
+      "hour": 11,
+      "name": "Lunch Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14981932881",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-03",
+      "hour": 6,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/14991205745",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-17",
+      "hour": 20,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15172251315",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-17",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15172251452",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-18",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15172251106",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-18",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15172251181",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-19",
+      "hour": 15,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15172250939",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-19",
+      "hour": 16,
+      "name": "Bikepacking Test - Part 1",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15172251038",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-20",
+      "hour": 7,
+      "name": "Bikepacking Test - Part 2",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15179264633",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-22",
+      "hour": 20,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15221647305",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-22",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15221647450",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-24",
+      "hour": 16,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15222385970",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-25",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15234142861",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-26",
+      "hour": 15,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15245695970",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-28",
+      "hour": 20,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15288043417",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-28",
+      "hour": 20,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15288044321",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-28",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15288045348",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-29",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15288041530",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-29",
+      "hour": 9,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15288042919",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-30",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15289743886",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-31",
+      "hour": 10,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15312230950",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-02",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15320933323",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-02",
+      "hour": 18,
+      "name": "Powermeter Test",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15321197789",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-02",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15321975866",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-03",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15334374018",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-05",
+      "hour": 9,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15349047468",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-05",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15377807726",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-07",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15379725107",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-08",
+      "hour": 22,
+      "name": "Night Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15395140633",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-08",
+      "hour": 11,
+      "name": "Lunch Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15395140770",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-09",
+      "hour": 9,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15398801624",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-09",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15424565099",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-09",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15424565676",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-11",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15424564068",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-11",
+      "hour": 15,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15424564735",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-12",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15440980642",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-12",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15440980824",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-13",
+      "hour": 7,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15440980317",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-13",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15441262328",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-13",
+      "hour": 21,
+      "name": "Night Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15458036638",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-14",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15458373946",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-14",
+      "hour": 20,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15460491213",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-15",
+      "hour": 7,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15463648113",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-18",
+      "hour": 7,
+      "name": "Sweetspot 3x15",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15497502172",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-18",
+      "hour": 20,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15504320432",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-18",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15504320776",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-19",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15520886603",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-19",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15520886818",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-20",
+      "hour": 7,
+      "name": "Vo2max 5x4",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15520886413",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-20",
+      "hour": 11,
+      "name": "Lunch Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15522023360",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-20",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15537058173",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-21",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15539519077",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-25",
+      "hour": 19,
+      "name": "Sweet Spot 2x20",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15585747903",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-26",
+      "hour": 9,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15589062501",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-26",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15605669355",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-27",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15608847012",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-29",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15639606556",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-29",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15639606924",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-30",
+      "hour": 15,
+      "name": "VO2max 6x4",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15639606224",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-31",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15645998409",
+      "year": 2025
+    },
+    {
+      "date": "2025-08-31",
+      "hour": 13,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15647569998",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-01",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15661657761",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-01",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15661783643",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-01",
+      "hour": 21,
+      "name": "Night Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15663595647",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-02",
+      "hour": 22,
+      "name": "Night Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15698689059",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-02",
+      "hour": 9,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15698689311",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-03",
+      "hour": 21,
+      "name": "Night Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15698688313",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-03",
+      "hour": 9,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15698688618",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-04",
+      "hour": 16,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15698685996",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-04",
+      "hour": 20,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15698686004",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-04",
+      "hour": 10,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15698686411",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-05",
+      "hour": 10,
+      "name": "Berlin Rostock Berlin - Tag 1",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15709102163",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-06",
+      "hour": 7,
+      "name": "Berlin Rostock Berlin - Tag 2",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15721025410",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-07",
+      "hour": 8,
+      "name": "Berlin Rostock Berlin - Tag 3",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15738663774",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-08",
+      "hour": 7,
+      "name": "Berlin Rostock Berlin - Tag 4 \ud83d\ude2e\u200d\ud83d\udca8",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15738694013",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-10",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15760627718",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-10",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15767092968",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-12",
+      "hour": 12,
+      "name": "Zwift - Your First Workout in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/15784495493",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-12",
+      "hour": 15,
+      "name": "Zwift - FTP Ramp Test on Tempus Fugit in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/15786365074",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-12",
+      "hour": 16,
+      "name": "Zwift - Tempus Fugit in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/15786587661",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-13",
+      "hour": 11,
+      "name": "Ramp Test",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15794753509",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-13",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15804053832",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-13",
+      "hour": 16,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15804054029",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-14",
+      "hour": 7,
+      "name": "Morning Ride inkl Platten",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15805364293",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-14",
+      "hour": 19,
+      "name": "Buckeye",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15812500566",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-16",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15861680080",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-16",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15861680185",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-18",
+      "hour": 20,
+      "name": "Mount Alyeska",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15857616538",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-20",
+      "hour": 7,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15872662627",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-20",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15883884358",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-20",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15883884395",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-21",
+      "hour": 9,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15884060025",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-21",
+      "hour": 9,
+      "name": "Antelope",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15884884312",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-21",
+      "hour": 11,
+      "name": "Lunch Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15885038899",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-22",
+      "hour": 20,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15912423383",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-22",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15912424180",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-23",
+      "hour": 18,
+      "name": "Margaret",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/15912376120",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-23",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15912421178",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-23",
+      "hour": 9,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15912422574",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-24",
+      "hour": 13,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15920245627",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-24",
+      "hour": 16,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15921666132",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-24",
+      "hour": 19,
+      "name": "Mount Foraker +1",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/15924288062",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-25",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15943154077",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-25",
+      "hour": 7,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15943155267",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-26",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15943896229",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-27",
+      "hour": 0,
+      "name": "Night Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15946920676",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-27",
+      "hour": 10,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/15951077126",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-28",
+      "hour": 14,
+      "name": "Galena",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/15965892967",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-29",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16020935443",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-29",
+      "hour": 9,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16020936008",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-30",
+      "hour": 19,
+      "name": "Pioneer -3",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/15990317531",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-01",
+      "hour": 20,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16020934880",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-01",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16020935675",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-02",
+      "hour": 19,
+      "name": "Obelisk",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16012933898",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-03",
+      "hour": 16,
+      "name": "FTP Test",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16020934367",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-03",
+      "hour": 16,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16020934531",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-03",
+      "hour": 16,
+      "name": "James",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16021621719",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-04",
+      "hour": 20,
+      "name": "Birch",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16033745294",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-05",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16040114066",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-06",
+      "hour": 20,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16097706658",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-06",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16097706874",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-07",
+      "hour": 8,
+      "name": "Bashful +2",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16059701739",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-07",
+      "hour": 10,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16097706282",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-08",
+      "hour": 0,
+      "name": "Night Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16097705979",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-09",
+      "hour": 20,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16097705434",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-09",
+      "hour": 10,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16097705622",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-11",
+      "hour": 7,
+      "name": "First Group Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16106301691",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-13",
+      "hour": 19,
+      "name": "Collins",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16130312170",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-14",
+      "hour": 20,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16157391026",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-14",
+      "hour": 9,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16157391227",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-15",
+      "hour": 20,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16157390659",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-15",
+      "hour": 9,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16157390807",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-16",
+      "hour": 12,
+      "name": "Lunch Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16157987076",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-16",
+      "hour": 19,
+      "name": "Cowhorn",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16162819600",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-18",
+      "hour": 9,
+      "name": "Nellis Wash",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16177538152",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-19",
+      "hour": 9,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16189995804",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-19",
+      "hour": 15,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16191877961",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-19",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16222655243",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-21",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16222654555",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-21",
+      "hour": 9,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16222654837",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-22",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16222654336",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-22",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16224446369",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-23",
+      "hour": 19,
+      "name": "Boyd",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16234968734",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-24",
+      "hour": 19,
+      "name": "Grouse",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16244360307",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-26",
+      "hour": 8,
+      "name": "Windy Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16259413813",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-27",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16275786015",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-27",
+      "hour": 9,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16275786386",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-27",
+      "hour": 23,
+      "name": "Night Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16276065382",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-28",
+      "hour": 21,
+      "name": "Pioneer -3",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16286221448",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-29",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16303712725",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-29",
+      "hour": 9,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16303713495",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-30",
+      "hour": 17,
+      "name": "Autore",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16304851433",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-31",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16313974024",
+      "year": 2025
+    },
+    {
+      "date": "2025-10-31",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16314098967",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-01",
+      "hour": 15,
+      "name": "Auf der Suche nach HM",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16323615217",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-02",
+      "hour": 18,
+      "name": "Brasstown",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16335375414",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-03",
+      "hour": 9,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16339024344",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-03",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16343229353",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-04",
+      "hour": 19,
+      "name": "Jedediah",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16355383903",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-05",
+      "hour": 9,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16360508180",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-05",
+      "hour": 23,
+      "name": "Night Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16381369326",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-06",
+      "hour": 19,
+      "name": "Eisen",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16377433185",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-07",
+      "hour": 9,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16381446246",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-08",
+      "hour": 1,
+      "name": "Night Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16400756492",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-09",
+      "hour": 9,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16403047770",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-09",
+      "hour": 14,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16406068579",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-12",
+      "hour": 19,
+      "name": "Chalone",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16438566007",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-13",
+      "hour": 16,
+      "name": "Aerobic Threshold (1.5 hours)",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16447612299",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-13",
+      "hour": 16,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16447612633",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-15",
+      "hour": 15,
+      "name": "V02-W6-pw : Race winning intervals 1 ( > 200% of Ftp) - 1h30",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16466138706",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-16",
+      "hour": 17,
+      "name": "Sweet Spot A #5",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16478328398",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-17",
+      "hour": 20,
+      "name": "Day 2 - Sweet Spot B #7",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16488175164",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-19",
+      "hour": 20,
+      "name": "VO2 Max (6x4min)",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16508411337",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-21",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16525770662",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-21",
+      "hour": 19,
+      "name": "Power Builder 60",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16526767383",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-24",
+      "hour": 19,
+      "name": "Day 5 - Sweet Spot A #8",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16555777201",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-26",
+      "hour": 19,
+      "name": "Day 6 - Sweet Spot B #8",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16575699147",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-26",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16575707075",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-29",
+      "hour": 13,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16599989091",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-29",
+      "hour": 13,
+      "name": "Collywobbles 120 + Sprints",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16601253110",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-02",
+      "hour": 20,
+      "name": "Day 9 - Sweet Spot A #9",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16632507498",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-04",
+      "hour": 18,
+      "name": "Sweet Spot B #9",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16650886403",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-06",
+      "hour": 12,
+      "name": "NWD",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16666162193",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-09",
+      "hour": 17,
+      "name": "Day 13 - Lollygag 75 + CAD",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16695875468",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-14",
+      "hour": 16,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16741803520",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-14",
+      "hour": 16,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16742400774",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-14",
+      "hour": 21,
+      "name": "Night Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16744290831",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-17",
+      "hour": 10,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16765501324",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-17",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16769508296",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-18",
+      "hour": 19,
+      "name": "Day 18 - Sweet Spot B #10",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16779412849",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-19",
+      "hour": 16,
+      "name": "FTP Test",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16786182790",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-19",
+      "hour": 16,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16786192875",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-19",
+      "hour": 16,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16806391236",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-21",
+      "hour": 9,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16801769231",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-22",
+      "hour": 10,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16810534576",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-27",
+      "hour": 18,
+      "name": "Day 21 - Sweet Spot A #11",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16857496811",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-29",
+      "hour": 13,
+      "name": "Day 22 - Sweet Spot B #11",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16873658797",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-30",
+      "hour": 12,
+      "name": "Day 25 - Sweet Spot A #12",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16883103559",
+      "year": 2025
+    },
+    {
+      "date": "2026-01-02",
+      "hour": 12,
+      "name": "Ultimate HIIT Session: 3 rounds of 30/15s (120%)",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16911558745",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-05",
+      "hour": 20,
+      "name": "Day 29 - Fard 105 + CAD",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16949145946",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-07",
+      "hour": 18,
+      "name": "Day 30 - Kerfuffle 105 + CAD",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16971242848",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-09",
+      "hour": 13,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16989640602",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-09",
+      "hour": 14,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16989958899",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-09",
+      "hour": 21,
+      "name": "Night Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/16993398339",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-14",
+      "hour": 11,
+      "name": "Teneriffa - Tag 1",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17048423447",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-15",
+      "hour": 9,
+      "name": "Teneriffa - Tag 2",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17059787949",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-16",
+      "hour": 10,
+      "name": "Teneriffa - Tag 3",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17069613132",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-17",
+      "hour": 8,
+      "name": "Teneriffa - Tag 4",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17084543442",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-19",
+      "hour": 8,
+      "name": "Teneriffa - Tag 6",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17105161874",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-26",
+      "hour": 13,
+      "name": "Day 1 - HIIT A #7",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17182479720",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-26",
+      "hour": 13,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17182500934",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-26",
+      "hour": 18,
+      "name": "Training am Abend",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17239980326",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-27",
+      "hour": 20,
+      "name": "Spinning Class",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17197639766",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-27",
+      "hour": 18,
+      "name": "Training am Abend",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17239957672",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-28",
+      "hour": 16,
+      "name": "Mount Baldy -3",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17207373146",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-29",
+      "hour": 19,
+      "name": "Truchas -2",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17220325734",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-30",
+      "hour": 17,
+      "name": "Training am Nachmittag",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17245976170",
+      "year": 2026
+    },
+    {
+      "date": "2026-01-31",
+      "hour": 10,
+      "name": "Tunemah",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17236227257",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-01",
+      "hour": 19,
+      "name": "Collins",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17253787529",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-02",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17262234552",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-02",
+      "hour": 18,
+      "name": "Training am Abend",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17262837335",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-03",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17272050704",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-03",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17274285362",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-03",
+      "hour": 20,
+      "name": "Shortoff +1",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17276476629",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-04",
+      "hour": 19,
+      "name": "Training am Abend",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17287127037",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-04",
+      "hour": 9,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17320743359",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-06",
+      "hour": 18,
+      "name": "Leenaun",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17308402071",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-07",
+      "hour": 15,
+      "name": "Palisade",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17319325710",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-08",
+      "hour": 14,
+      "name": "Training am Nachmittag",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17329485906",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-09",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17336319161",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-09",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17340966009",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-09",
+      "hour": 18,
+      "name": "Training am Abend",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17342244003",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-10",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17354296327",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-10",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17354296589",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-10",
+      "hour": 20,
+      "name": "Alice +1",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17355361274",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-11",
+      "hour": 19,
+      "name": "Training am Abend",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17365929349",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-12",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17370800822",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-12",
+      "hour": 20,
+      "name": "Red Slate",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17377242520",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-13",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17381456812",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-14",
+      "hour": 16,
+      "name": "Training am Nachmittag",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17396619594",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-15",
+      "hour": 10,
+      "name": "Florida",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17405097751",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-17",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17424423375",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-17",
+      "hour": 19,
+      "name": "Pioneer -3",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17431251930",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-18",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17441993211",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-18",
+      "hour": 19,
+      "name": "Training am Abend",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17442773488",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-19",
+      "hour": 9,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17447578094",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-19",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17452946391",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-19",
+      "hour": 19,
+      "name": "Training am Abend",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17453842718",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-20",
+      "hour": 19,
+      "name": "James",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17464328532",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-22",
+      "hour": 16,
+      "name": "Heseman",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17486700109",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-23",
+      "hour": 9,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17491461086",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-23",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17496777831",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-23",
+      "hour": 19,
+      "name": "Training am Abend",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17497756954",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-24",
+      "hour": 9,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17502672017",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-24",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17508547127",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-25",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17514780581",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-25",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17520338938",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-25",
+      "hour": 18,
+      "name": "Training am Abend",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17521370878",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-25",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17521760881",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-26",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17526995792",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-26",
+      "hour": 16,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17531366097",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-26",
+      "hour": 17,
+      "name": "Galena",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17533033111",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-27",
+      "hour": 16,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17543933291",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-27",
+      "hour": 20,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17545013698",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-27",
+      "hour": 23,
+      "name": "Night Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17546068972",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-28",
+      "hour": 12,
+      "name": "Greenwood",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17552524175",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-01",
+      "hour": 12,
+      "name": "Lunch Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17563506590",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-01",
+      "hour": 15,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17566589242",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-02",
+      "hour": 9,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17573097773",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-02",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17578536942",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-02",
+      "hour": 19,
+      "name": "Training am Abend",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17579569477",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-02",
+      "hour": 20,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17579905795",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-03",
+      "hour": 20,
+      "name": "Glennamong",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17592799467",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-04",
+      "hour": 9,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17597731587",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-04",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17603777996",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-05",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17612332426",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-05",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17614944293",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-05",
+      "hour": 18,
+      "name": "Antelope",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17616369595",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-06",
+      "hour": 19,
+      "name": "Training am Abend",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17628018707",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-06",
+      "hour": 10,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17631723797",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-06",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17631723842",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-06",
+      "hour": 23,
+      "name": "Night Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17631723845",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-06",
+      "hour": 12,
+      "name": "Lunch Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17631723851",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-07",
+      "hour": 9,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17634037802",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-07",
+      "hour": 16,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17637973049",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-08",
+      "hour": 11,
+      "name": "Aero",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17649686214",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-09",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17656930620",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-09",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17662403562",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-10",
+      "hour": 18,
+      "name": "Training am Abend",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17676069531",
+      "year": 2026
+    }
+  ],
+  "aggregates": {
+    "2019": {
+      "Ride": {
+        "2019-06-30": {
+          "activity_ids": [
+            "2492250214"
+          ],
+          "count": 1,
+          "distance": 28893.3,
+          "elevation_gain": 182.5,
+          "moving_time": 4806.0
+        },
+        "2019-07-16": {
+          "activity_ids": [
+            "2537709505"
+          ],
+          "count": 1,
+          "distance": 12058.5,
+          "elevation_gain": 77.4,
+          "moving_time": 1965.0
+        },
+        "2019-09-01": {
+          "activity_ids": [
+            "2669617387"
+          ],
+          "count": 1,
+          "distance": 618.2,
+          "elevation_gain": 9.1,
+          "moving_time": 96.0
+        }
+      }
+    },
+    "2020": {
+      "Ride": {
+        "2020-03-22": {
+          "activity_ids": [
+            "3207383965",
+            "3207446995"
+          ],
+          "count": 2,
+          "distance": 5340.799999999999,
+          "elevation_gain": 22.8,
+          "moving_time": 738.0
+        },
+        "2020-03-28": {
+          "activity_ids": [
+            "3227601025"
+          ],
+          "count": 1,
+          "distance": 14676.9,
+          "elevation_gain": 114.8,
+          "moving_time": 1985.0
+        },
+        "2020-03-31": {
+          "activity_ids": [
+            "3239416421"
+          ],
+          "count": 1,
+          "distance": 2190.5,
+          "elevation_gain": 8.5,
+          "moving_time": 306.0
+        },
+        "2020-04-08": {
+          "activity_ids": [
+            "3270835700",
+            "3271063331"
+          ],
+          "count": 2,
+          "distance": 7241.2,
+          "elevation_gain": 42.8,
+          "moving_time": 1127.0
+        },
+        "2020-04-09": {
+          "activity_ids": [
+            "3275188561"
+          ],
+          "count": 1,
+          "distance": 30886.1,
+          "elevation_gain": 191.2,
+          "moving_time": 4500.0
+        },
+        "2020-04-11": {
+          "activity_ids": [
+            "3288106703"
+          ],
+          "count": 1,
+          "distance": 12539.3,
+          "elevation_gain": 20.4,
+          "moving_time": 2015.0
+        },
+        "2020-04-12": {
+          "activity_ids": [
+            "3288322784"
+          ],
+          "count": 1,
+          "distance": 15578.0,
+          "elevation_gain": 91.7,
+          "moving_time": 2016.0
+        }
+      }
+    },
+    "2021": {
+      "AlpineSki": {
+        "2021-12-29": {
+          "activity_ids": [
+            "6442373049",
+            "6442431861",
+            "6442615405"
+          ],
+          "count": 3,
+          "distance": 12266.0,
+          "elevation_gain": 6.8,
+          "moving_time": 1739.0
+        },
+        "2021-12-30": {
+          "activity_ids": [
+            "6445414422",
+            "6445458629",
+            "6445473891",
+            "6445531899",
+            "6445606633",
+            "6445774763"
+          ],
+          "count": 6,
+          "distance": 20361.0,
+          "elevation_gain": 888.7,
+          "moving_time": 3139.0
+        },
+        "2021-12-31": {
+          "activity_ids": [
+            "6449811101",
+            "6449971581",
+            "6450031052",
+            "6450171041",
+            "6450296327",
+            "6450504947",
+            "6451448111"
+          ],
+          "count": 7,
+          "distance": 26098.200000000004,
+          "elevation_gain": 596.2,
+          "moving_time": 3611.0
+        }
+      },
+      "Ride": {
+        "2021-05-24": {
+          "activity_ids": [
+            "5350194691"
+          ],
+          "count": 1,
+          "distance": 30265.3,
+          "elevation_gain": 136.7,
+          "moving_time": 4402.0
+        },
+        "2021-05-29": {
+          "activity_ids": [
+            "5378814011"
+          ],
+          "count": 1,
+          "distance": 14658.7,
+          "elevation_gain": 88.3,
+          "moving_time": 2162.0
+        },
+        "2021-09-19": {
+          "activity_ids": [
+            "5985614155"
+          ],
+          "count": 1,
+          "distance": 28235.6,
+          "elevation_gain": 135.4,
+          "moving_time": 4140.0
+        }
+      }
+    },
+    "2022": {
+      "Ride": {
+        "2022-02-27": {
+          "activity_ids": [
+            "6747862159"
+          ],
+          "count": 1,
+          "distance": 59060.6,
+          "elevation_gain": 257.2,
+          "moving_time": 13603.0
+        }
+      }
+    },
+    "2023": {
+      "Ride": {
+        "2023-03-26": {
+          "activity_ids": [
+            "8783117161"
+          ],
+          "count": 1,
+          "distance": 4087.4,
+          "elevation_gain": 8.0,
+          "moving_time": 614.0
+        },
+        "2023-04-13": {
+          "activity_ids": [
+            "8884823654"
+          ],
+          "count": 1,
+          "distance": 4806.6,
+          "elevation_gain": 10.7,
+          "moving_time": 837.0
+        },
+        "2023-09-16": {
+          "activity_ids": [
+            "9862468820",
+            "9862529910"
+          ],
+          "count": 2,
+          "distance": 5133.2,
+          "elevation_gain": 12.6,
+          "moving_time": 728.0
+        }
+      }
+    },
+    "2025": {
+      "Ride": {
+        "2025-04-26": {
+          "activity_ids": [
+            "14290896208"
+          ],
+          "count": 1,
+          "distance": 50228.8,
+          "elevation_gain": 117.7,
+          "moving_time": 6648.0
+        },
+        "2025-04-27": {
+          "activity_ids": [
+            "14304683109",
+            "14304891879"
+          ],
+          "count": 2,
+          "distance": 5441.9,
+          "elevation_gain": 11.0,
+          "moving_time": 855.0
+        },
+        "2025-04-28": {
+          "activity_ids": [
+            "14323272135",
+            "14323272440"
+          ],
+          "count": 2,
+          "distance": 10163.7,
+          "elevation_gain": 6.0,
+          "moving_time": 1501.0
+        },
+        "2025-04-29": {
+          "activity_ids": [
+            "14323271701",
+            "14341759504",
+            "14341759800"
+          ],
+          "count": 3,
+          "distance": 12372.7,
+          "elevation_gain": 13.0,
+          "moving_time": 1832.0
+        },
+        "2025-04-30": {
+          "activity_ids": [
+            "14341758855",
+            "14341759135"
+          ],
+          "count": 2,
+          "distance": 14043.4,
+          "elevation_gain": 14.0,
+          "moving_time": 2170.0
+        },
+        "2025-05-01": {
+          "activity_ids": [
+            "14344004779"
+          ],
+          "count": 1,
+          "distance": 57678.2,
+          "elevation_gain": 241.0,
+          "moving_time": 8385.0
+        },
+        "2025-05-04": {
+          "activity_ids": [
+            "14383904547"
+          ],
+          "count": 1,
+          "distance": 4754.7,
+          "elevation_gain": 13.0,
+          "moving_time": 745.0
+        },
+        "2025-05-06": {
+          "activity_ids": [
+            "14395951772",
+            "14401801616"
+          ],
+          "count": 2,
+          "distance": 9560.400000000001,
+          "elevation_gain": 11.0,
+          "moving_time": 1445.0
+        },
+        "2025-05-07": {
+          "activity_ids": [
+            "14413052720"
+          ],
+          "count": 1,
+          "distance": 5422.3,
+          "elevation_gain": 0.0,
+          "moving_time": 878.0
+        },
+        "2025-05-08": {
+          "activity_ids": [
+            "14413052266",
+            "14415092456",
+            "14437664919"
+          ],
+          "count": 3,
+          "distance": 75700.79999999999,
+          "elevation_gain": 68.0,
+          "moving_time": 10520.0
+        },
+        "2025-05-09": {
+          "activity_ids": [
+            "14437664768"
+          ],
+          "count": 1,
+          "distance": 4524.2,
+          "elevation_gain": 0.0,
+          "moving_time": 704.0
+        },
+        "2025-05-10": {
+          "activity_ids": [
+            "14437665293"
+          ],
+          "count": 1,
+          "distance": 108135.0,
+          "elevation_gain": 296.0,
+          "moving_time": 14383.0
+        },
+        "2025-05-12": {
+          "activity_ids": [
+            "14453358549",
+            "14477016804"
+          ],
+          "count": 2,
+          "distance": 10125.6,
+          "elevation_gain": 8.0,
+          "moving_time": 1699.0
+        },
+        "2025-05-13": {
+          "activity_ids": [
+            "14477015751",
+            "14477015877",
+            "14477016365"
+          ],
+          "count": 3,
+          "distance": 10905.0,
+          "elevation_gain": 3.0,
+          "moving_time": 1770.0
+        },
+        "2025-05-14": {
+          "activity_ids": [
+            "14482034847"
+          ],
+          "count": 1,
+          "distance": 81778.1,
+          "elevation_gain": 203.0,
+          "moving_time": 10658.0
+        },
+        "2025-05-15": {
+          "activity_ids": [
+            "14487383302"
+          ],
+          "count": 1,
+          "distance": 5151.7,
+          "elevation_gain": 5.0,
+          "moving_time": 833.0
+        },
+        "2025-05-17": {
+          "activity_ids": [
+            "14509579601",
+            "14509579957",
+            "14509960452"
+          ],
+          "count": 3,
+          "distance": 33419.3,
+          "elevation_gain": 24.0,
+          "moving_time": 4208.0
+        },
+        "2025-05-21": {
+          "activity_ids": [
+            "14577545125"
+          ],
+          "count": 1,
+          "distance": 5723.4,
+          "elevation_gain": 2.0,
+          "moving_time": 1036.0
+        },
+        "2025-05-24": {
+          "activity_ids": [
+            "14578350463",
+            "14581010590"
+          ],
+          "count": 2,
+          "distance": 43365.8,
+          "elevation_gain": 323.0,
+          "moving_time": 6409.0
+        },
+        "2025-05-25": {
+          "activity_ids": [
+            "14590559892"
+          ],
+          "count": 1,
+          "distance": 106178.0,
+          "elevation_gain": 159.0,
+          "moving_time": 15225.0
+        },
+        "2025-05-27": {
+          "activity_ids": [
+            "14630896748",
+            "14630897378"
+          ],
+          "count": 2,
+          "distance": 9697.2,
+          "elevation_gain": 3.0,
+          "moving_time": 1512.0
+        },
+        "2025-05-28": {
+          "activity_ids": [
+            "14630895505",
+            "14630896175"
+          ],
+          "count": 2,
+          "distance": 10151.7,
+          "elevation_gain": 6.0,
+          "moving_time": 1589.0
+        },
+        "2025-05-29": {
+          "activity_ids": [
+            "14632929850"
+          ],
+          "count": 1,
+          "distance": 70287.1,
+          "elevation_gain": 166.0,
+          "moving_time": 9935.0
+        },
+        "2025-06-02": {
+          "activity_ids": [
+            "14675924797"
+          ],
+          "count": 1,
+          "distance": 77862.6,
+          "elevation_gain": 217.0,
+          "moving_time": 10022.0
+        },
+        "2025-06-03": {
+          "activity_ids": [
+            "14680020190",
+            "14706794598"
+          ],
+          "count": 2,
+          "distance": 10134.5,
+          "elevation_gain": 5.0,
+          "moving_time": 1629.0
+        },
+        "2025-06-04": {
+          "activity_ids": [
+            "14706792240",
+            "14706792967"
+          ],
+          "count": 2,
+          "distance": 9933.599999999999,
+          "elevation_gain": 7.0,
+          "moving_time": 1607.0
+        },
+        "2025-06-05": {
+          "activity_ids": [
+            "14707862758"
+          ],
+          "count": 1,
+          "distance": 44818.8,
+          "elevation_gain": 87.0,
+          "moving_time": 5592.0
+        },
+        "2025-06-06": {
+          "activity_ids": [
+            "14716528522"
+          ],
+          "count": 1,
+          "distance": 91565.2,
+          "elevation_gain": 375.0,
+          "moving_time": 12300.0
+        },
+        "2025-06-07": {
+          "activity_ids": [
+            "14740853175",
+            "14740853596"
+          ],
+          "count": 2,
+          "distance": 13131.699999999999,
+          "elevation_gain": 5.0,
+          "moving_time": 2178.0
+        },
+        "2025-06-09": {
+          "activity_ids": [
+            "14741467088",
+            "14743728461",
+            "14744047323"
+          ],
+          "count": 3,
+          "distance": 105272.6,
+          "elevation_gain": 258.0,
+          "moving_time": 13623.0
+        },
+        "2025-06-10": {
+          "activity_ids": [
+            "14765798039"
+          ],
+          "count": 1,
+          "distance": 5456.4,
+          "elevation_gain": 2.0,
+          "moving_time": 791.0
+        },
+        "2025-06-11": {
+          "activity_ids": [
+            "14765798034",
+            "14786298053"
+          ],
+          "count": 2,
+          "distance": 11672.599999999999,
+          "elevation_gain": 10.0,
+          "moving_time": 1705.0
+        },
+        "2025-06-13": {
+          "activity_ids": [
+            "14789899295"
+          ],
+          "count": 1,
+          "distance": 162384.0,
+          "elevation_gain": 351.0,
+          "moving_time": 21845.0
+        },
+        "2025-06-15": {
+          "activity_ids": [
+            "14808727753"
+          ],
+          "count": 1,
+          "distance": 76281.4,
+          "elevation_gain": 357.0,
+          "moving_time": 10988.0
+        },
+        "2025-06-16": {
+          "activity_ids": [
+            "14819321446",
+            "14819499084"
+          ],
+          "count": 2,
+          "distance": 9957.8,
+          "elevation_gain": 7.0,
+          "moving_time": 1439.0
+        },
+        "2025-06-17": {
+          "activity_ids": [
+            "14832286004",
+            "14832286523",
+            "14832286682",
+            "14839742159"
+          ],
+          "count": 4,
+          "distance": 14648.0,
+          "elevation_gain": 17.0,
+          "moving_time": 2350.0
+        },
+        "2025-06-18": {
+          "activity_ids": [
+            "14841259068"
+          ],
+          "count": 1,
+          "distance": 49036.4,
+          "elevation_gain": 1012.0,
+          "moving_time": 8199.0
+        },
+        "2025-06-26": {
+          "activity_ids": [
+            "14924696099"
+          ],
+          "count": 1,
+          "distance": 38845.0,
+          "elevation_gain": 25.0,
+          "moving_time": 4838.0
+        },
+        "2025-06-30": {
+          "activity_ids": [
+            "14976702092",
+            "14976702346"
+          ],
+          "count": 2,
+          "distance": 9492.1,
+          "elevation_gain": 5.0,
+          "moving_time": 1435.0
+        },
+        "2025-07-02": {
+          "activity_ids": [
+            "14980895702",
+            "14981932881"
+          ],
+          "count": 2,
+          "distance": 69733.0,
+          "elevation_gain": 69.0,
+          "moving_time": 9458.0
+        },
+        "2025-07-03": {
+          "activity_ids": [
+            "14991205745"
+          ],
+          "count": 1,
+          "distance": 53565.9,
+          "elevation_gain": 121.0,
+          "moving_time": 7512.0
+        },
+        "2025-07-17": {
+          "activity_ids": [
+            "15172251315",
+            "15172251452"
+          ],
+          "count": 2,
+          "distance": 15098.9,
+          "elevation_gain": 7.0,
+          "moving_time": 2436.0
+        },
+        "2025-07-18": {
+          "activity_ids": [
+            "15172251106",
+            "15172251181"
+          ],
+          "count": 2,
+          "distance": 10243.1,
+          "elevation_gain": 4.0,
+          "moving_time": 1671.0
+        },
+        "2025-07-19": {
+          "activity_ids": [
+            "15172250939",
+            "15172251038"
+          ],
+          "count": 2,
+          "distance": 84604.3,
+          "elevation_gain": 144.6,
+          "moving_time": 12795.0
+        },
+        "2025-07-20": {
+          "activity_ids": [
+            "15179264633"
+          ],
+          "count": 1,
+          "distance": 200026.0,
+          "elevation_gain": 444.0,
+          "moving_time": 29448.0
+        },
+        "2025-07-22": {
+          "activity_ids": [
+            "15221647305",
+            "15221647450"
+          ],
+          "count": 2,
+          "distance": 10234.8,
+          "elevation_gain": 7.0,
+          "moving_time": 1628.0
+        },
+        "2025-07-24": {
+          "activity_ids": [
+            "15222385970"
+          ],
+          "count": 1,
+          "distance": 36247.8,
+          "elevation_gain": 142.0,
+          "moving_time": 4397.0
+        },
+        "2025-07-25": {
+          "activity_ids": [
+            "15234142861"
+          ],
+          "count": 1,
+          "distance": 67374.9,
+          "elevation_gain": 112.0,
+          "moving_time": 8514.0
+        },
+        "2025-07-26": {
+          "activity_ids": [
+            "15245695970"
+          ],
+          "count": 1,
+          "distance": 65125.2,
+          "elevation_gain": 209.0,
+          "moving_time": 8696.0
+        },
+        "2025-07-28": {
+          "activity_ids": [
+            "15288043417",
+            "15288044321",
+            "15288045348"
+          ],
+          "count": 3,
+          "distance": 9074.2,
+          "elevation_gain": 6.0,
+          "moving_time": 1313.0
+        },
+        "2025-07-29": {
+          "activity_ids": [
+            "15288041530",
+            "15288042919"
+          ],
+          "count": 2,
+          "distance": 9530.3,
+          "elevation_gain": 7.0,
+          "moving_time": 1518.0
+        },
+        "2025-07-30": {
+          "activity_ids": [
+            "15289743886"
+          ],
+          "count": 1,
+          "distance": 62142.1,
+          "elevation_gain": 91.0,
+          "moving_time": 7617.0
+        },
+        "2025-07-31": {
+          "activity_ids": [
+            "15312230950"
+          ],
+          "count": 1,
+          "distance": 5018.4,
+          "elevation_gain": 1.0,
+          "moving_time": 735.0
+        },
+        "2025-08-02": {
+          "activity_ids": [
+            "15320933323",
+            "15321197789",
+            "15321975866"
+          ],
+          "count": 3,
+          "distance": 44639.600000000006,
+          "elevation_gain": 90.0,
+          "moving_time": 5441.0
+        },
+        "2025-08-03": {
+          "activity_ids": [
+            "15334374018"
+          ],
+          "count": 1,
+          "distance": 74166.0,
+          "elevation_gain": 214.0,
+          "moving_time": 9687.0
+        },
+        "2025-08-05": {
+          "activity_ids": [
+            "15349047468",
+            "15377807726"
+          ],
+          "count": 2,
+          "distance": 10052.5,
+          "elevation_gain": 14.0,
+          "moving_time": 1602.0
+        },
+        "2025-08-07": {
+          "activity_ids": [
+            "15379725107"
+          ],
+          "count": 1,
+          "distance": 51074.9,
+          "elevation_gain": 100.0,
+          "moving_time": 6255.0
+        },
+        "2025-08-08": {
+          "activity_ids": [
+            "15395140633",
+            "15395140770"
+          ],
+          "count": 2,
+          "distance": 9870.5,
+          "elevation_gain": 15.0,
+          "moving_time": 1572.0
+        },
+        "2025-08-09": {
+          "activity_ids": [
+            "15398801624",
+            "15424565099",
+            "15424565676"
+          ],
+          "count": 3,
+          "distance": 105766.3,
+          "elevation_gain": 291.0,
+          "moving_time": 14611.0
+        },
+        "2025-08-11": {
+          "activity_ids": [
+            "15424564068",
+            "15424564735"
+          ],
+          "count": 2,
+          "distance": 15049.7,
+          "elevation_gain": 38.0,
+          "moving_time": 2024.0
+        },
+        "2025-08-12": {
+          "activity_ids": [
+            "15440980642",
+            "15440980824"
+          ],
+          "count": 2,
+          "distance": 9762.400000000001,
+          "elevation_gain": 15.0,
+          "moving_time": 1423.0
+        },
+        "2025-08-13": {
+          "activity_ids": [
+            "15440980317",
+            "15441262328",
+            "15458036638"
+          ],
+          "count": 3,
+          "distance": 42854.399999999994,
+          "elevation_gain": 76.0,
+          "moving_time": 5615.0
+        },
+        "2025-08-14": {
+          "activity_ids": [
+            "15458373946",
+            "15460491213"
+          ],
+          "count": 2,
+          "distance": 6276.9,
+          "elevation_gain": 14.0,
+          "moving_time": 969.0
+        },
+        "2025-08-15": {
+          "activity_ids": [
+            "15463648113"
+          ],
+          "count": 1,
+          "distance": 36030.2,
+          "elevation_gain": 65.0,
+          "moving_time": 4452.0
+        },
+        "2025-08-18": {
+          "activity_ids": [
+            "15497502172",
+            "15504320432",
+            "15504320776"
+          ],
+          "count": 3,
+          "distance": 45012.6,
+          "elevation_gain": 89.0,
+          "moving_time": 5605.0
+        },
+        "2025-08-19": {
+          "activity_ids": [
+            "15520886603",
+            "15520886818"
+          ],
+          "count": 2,
+          "distance": 9903.1,
+          "elevation_gain": 16.0,
+          "moving_time": 1446.0
+        },
+        "2025-08-20": {
+          "activity_ids": [
+            "15520886413",
+            "15522023360",
+            "15537058173"
+          ],
+          "count": 3,
+          "distance": 51370.1,
+          "elevation_gain": 110.0,
+          "moving_time": 6771.0
+        },
+        "2025-08-21": {
+          "activity_ids": [
+            "15539519077"
+          ],
+          "count": 1,
+          "distance": 100149.0,
+          "elevation_gain": 268.0,
+          "moving_time": 12902.0
+        },
+        "2025-08-25": {
+          "activity_ids": [
+            "15585747903"
+          ],
+          "count": 1,
+          "distance": 44087.7,
+          "elevation_gain": 182.0,
+          "moving_time": 5306.0
+        },
+        "2025-08-26": {
+          "activity_ids": [
+            "15589062501",
+            "15605669355"
+          ],
+          "count": 2,
+          "distance": 9804.7,
+          "elevation_gain": 14.0,
+          "moving_time": 1433.0
+        },
+        "2025-08-27": {
+          "activity_ids": [
+            "15608847012"
+          ],
+          "count": 1,
+          "distance": 112884.0,
+          "elevation_gain": 603.0,
+          "moving_time": 14359.0
+        },
+        "2025-08-29": {
+          "activity_ids": [
+            "15639606556",
+            "15639606924"
+          ],
+          "count": 2,
+          "distance": 9908.5,
+          "elevation_gain": 12.0,
+          "moving_time": 1513.0
+        },
+        "2025-08-30": {
+          "activity_ids": [
+            "15639606224"
+          ],
+          "count": 1,
+          "distance": 39253.5,
+          "elevation_gain": 87.0,
+          "moving_time": 4811.0
+        },
+        "2025-08-31": {
+          "activity_ids": [
+            "15645998409",
+            "15647569998"
+          ],
+          "count": 2,
+          "distance": 75799.40000000001,
+          "elevation_gain": 244.0,
+          "moving_time": 9781.0
+        },
+        "2025-09-01": {
+          "activity_ids": [
+            "15661657761",
+            "15661783643",
+            "15663595647"
+          ],
+          "count": 3,
+          "distance": 11571.5,
+          "elevation_gain": 21.0,
+          "moving_time": 1602.0
+        },
+        "2025-09-02": {
+          "activity_ids": [
+            "15698689059",
+            "15698689311"
+          ],
+          "count": 2,
+          "distance": 9107.5,
+          "elevation_gain": 12.0,
+          "moving_time": 1488.0
+        },
+        "2025-09-03": {
+          "activity_ids": [
+            "15698688313",
+            "15698688618"
+          ],
+          "count": 2,
+          "distance": 9100.0,
+          "elevation_gain": 5.0,
+          "moving_time": 1528.0
+        },
+        "2025-09-04": {
+          "activity_ids": [
+            "15698685996",
+            "15698686004",
+            "15698686411"
+          ],
+          "count": 3,
+          "distance": 11446.2,
+          "elevation_gain": 12.0,
+          "moving_time": 1874.0
+        },
+        "2025-09-05": {
+          "activity_ids": [
+            "15709102163"
+          ],
+          "count": 1,
+          "distance": 205802.0,
+          "elevation_gain": 1106.0,
+          "moving_time": 29837.0
+        },
+        "2025-09-06": {
+          "activity_ids": [
+            "15721025410"
+          ],
+          "count": 1,
+          "distance": 207939.0,
+          "elevation_gain": 1272.0,
+          "moving_time": 31689.0
+        },
+        "2025-09-07": {
+          "activity_ids": [
+            "15738663774"
+          ],
+          "count": 1,
+          "distance": 231666.0,
+          "elevation_gain": 1327.5,
+          "moving_time": 34851.0
+        },
+        "2025-09-08": {
+          "activity_ids": [
+            "15738694013"
+          ],
+          "count": 1,
+          "distance": 100075.0,
+          "elevation_gain": 417.0,
+          "moving_time": 15263.0
+        },
+        "2025-09-10": {
+          "activity_ids": [
+            "15760627718",
+            "15767092968"
+          ],
+          "count": 2,
+          "distance": 14194.1,
+          "elevation_gain": 33.0,
+          "moving_time": 2236.0
+        },
+        "2025-09-13": {
+          "activity_ids": [
+            "15794753509",
+            "15804053832",
+            "15804054029"
+          ],
+          "count": 3,
+          "distance": 23748.9,
+          "elevation_gain": 12.0,
+          "moving_time": 2730.0
+        },
+        "2025-09-14": {
+          "activity_ids": [
+            "15805364293",
+            "15812500566"
+          ],
+          "count": 2,
+          "distance": 71348.6,
+          "elevation_gain": 136.0,
+          "moving_time": 12126.0
+        },
+        "2025-09-16": {
+          "activity_ids": [
+            "15861680080",
+            "15861680185"
+          ],
+          "count": 2,
+          "distance": 9245.5,
+          "elevation_gain": 17.0,
+          "moving_time": 1574.0
+        },
+        "2025-09-18": {
+          "activity_ids": [
+            "15857616538"
+          ],
+          "count": 1,
+          "distance": 15651.4,
+          "elevation_gain": 0.0,
+          "moving_time": 3600.0
+        },
+        "2025-09-20": {
+          "activity_ids": [
+            "15872662627",
+            "15883884358",
+            "15883884395"
+          ],
+          "count": 3,
+          "distance": 86438.7,
+          "elevation_gain": 344.0,
+          "moving_time": 11389.0
+        },
+        "2025-09-21": {
+          "activity_ids": [
+            "15884060025",
+            "15884884312",
+            "15885038899"
+          ],
+          "count": 3,
+          "distance": 45687.1,
+          "elevation_gain": 93.0,
+          "moving_time": 5809.0
+        },
+        "2025-09-22": {
+          "activity_ids": [
+            "15912423383",
+            "15912424180"
+          ],
+          "count": 2,
+          "distance": 9426.599999999999,
+          "elevation_gain": 11.0,
+          "moving_time": 1475.0
+        },
+        "2025-09-23": {
+          "activity_ids": [
+            "15912421178",
+            "15912422574"
+          ],
+          "count": 2,
+          "distance": 10137.9,
+          "elevation_gain": 16.0,
+          "moving_time": 1685.0
+        },
+        "2025-09-24": {
+          "activity_ids": [
+            "15920245627",
+            "15921666132"
+          ],
+          "count": 2,
+          "distance": 13879.5,
+          "elevation_gain": 60.0,
+          "moving_time": 2195.0
+        },
+        "2025-09-25": {
+          "activity_ids": [
+            "15943154077",
+            "15943155267"
+          ],
+          "count": 2,
+          "distance": 10116.7,
+          "elevation_gain": 15.0,
+          "moving_time": 1761.0
+        },
+        "2025-09-26": {
+          "activity_ids": [
+            "15943896229"
+          ],
+          "count": 1,
+          "distance": 24541.7,
+          "elevation_gain": 115.0,
+          "moving_time": 3541.0
+        },
+        "2025-09-27": {
+          "activity_ids": [
+            "15946920676",
+            "15951077126"
+          ],
+          "count": 2,
+          "distance": 43554.9,
+          "elevation_gain": 231.0,
+          "moving_time": 5549.0
+        },
+        "2025-09-29": {
+          "activity_ids": [
+            "16020935443",
+            "16020936008"
+          ],
+          "count": 2,
+          "distance": 9738.2,
+          "elevation_gain": 9.0,
+          "moving_time": 1551.0
+        },
+        "2025-10-01": {
+          "activity_ids": [
+            "16020934880",
+            "16020935675"
+          ],
+          "count": 2,
+          "distance": 9726.2,
+          "elevation_gain": 10.0,
+          "moving_time": 1502.0
+        },
+        "2025-10-03": {
+          "activity_ids": [
+            "16020934367",
+            "16020934531",
+            "16021621719"
+          ],
+          "count": 3,
+          "distance": 51151.9,
+          "elevation_gain": 36.0,
+          "moving_time": 6078.0
+        },
+        "2025-10-05": {
+          "activity_ids": [
+            "16040114066"
+          ],
+          "count": 1,
+          "distance": 105553.0,
+          "elevation_gain": 448.0,
+          "moving_time": 13738.0
+        },
+        "2025-10-06": {
+          "activity_ids": [
+            "16097706658",
+            "16097706874"
+          ],
+          "count": 2,
+          "distance": 9425.3,
+          "elevation_gain": 11.0,
+          "moving_time": 1433.0
+        },
+        "2025-10-07": {
+          "activity_ids": [
+            "16097706282"
+          ],
+          "count": 1,
+          "distance": 5013.8,
+          "elevation_gain": 2.0,
+          "moving_time": 778.0
+        },
+        "2025-10-08": {
+          "activity_ids": [
+            "16097705979"
+          ],
+          "count": 1,
+          "distance": 5162.5,
+          "elevation_gain": 33.0,
+          "moving_time": 790.0
+        },
+        "2025-10-09": {
+          "activity_ids": [
+            "16097705434",
+            "16097705622"
+          ],
+          "count": 2,
+          "distance": 9879.1,
+          "elevation_gain": 11.0,
+          "moving_time": 1486.0
+        },
+        "2025-10-11": {
+          "activity_ids": [
+            "16106301691"
+          ],
+          "count": 1,
+          "distance": 188610.0,
+          "elevation_gain": 944.0,
+          "moving_time": 22608.0
+        },
+        "2025-10-14": {
+          "activity_ids": [
+            "16157391026",
+            "16157391227"
+          ],
+          "count": 2,
+          "distance": 11233.1,
+          "elevation_gain": 14.0,
+          "moving_time": 1826.0
+        },
+        "2025-10-15": {
+          "activity_ids": [
+            "16157390659",
+            "16157390807"
+          ],
+          "count": 2,
+          "distance": 9746.599999999999,
+          "elevation_gain": 11.0,
+          "moving_time": 1568.0
+        },
+        "2025-10-16": {
+          "activity_ids": [
+            "16157987076"
+          ],
+          "count": 1,
+          "distance": 764.4,
+          "elevation_gain": 0.0,
+          "moving_time": 117.0
+        },
+        "2025-10-19": {
+          "activity_ids": [
+            "16189995804",
+            "16191877961",
+            "16222655243"
+          ],
+          "count": 3,
+          "distance": 103424.3,
+          "elevation_gain": 400.0,
+          "moving_time": 14836.0
+        },
+        "2025-10-21": {
+          "activity_ids": [
+            "16222654555",
+            "16222654837"
+          ],
+          "count": 2,
+          "distance": 9704.7,
+          "elevation_gain": 11.0,
+          "moving_time": 1501.0
+        },
+        "2025-10-22": {
+          "activity_ids": [
+            "16222654336",
+            "16224446369"
+          ],
+          "count": 2,
+          "distance": 9817.9,
+          "elevation_gain": 11.0,
+          "moving_time": 1412.0
+        },
+        "2025-10-26": {
+          "activity_ids": [
+            "16259413813"
+          ],
+          "count": 1,
+          "distance": 64984.0,
+          "elevation_gain": 273.0,
+          "moving_time": 7861.0
+        },
+        "2025-10-27": {
+          "activity_ids": [
+            "16275786015",
+            "16275786386",
+            "16276065382"
+          ],
+          "count": 3,
+          "distance": 25968.3,
+          "elevation_gain": 69.0,
+          "moving_time": 4096.0
+        },
+        "2025-10-29": {
+          "activity_ids": [
+            "16303712725",
+            "16303713495"
+          ],
+          "count": 2,
+          "distance": 9663.4,
+          "elevation_gain": 14.0,
+          "moving_time": 1496.0
+        },
+        "2025-10-30": {
+          "activity_ids": [
+            "16304851433"
+          ],
+          "count": 1,
+          "distance": 39400.0,
+          "elevation_gain": 127.0,
+          "moving_time": 5410.0
+        },
+        "2025-10-31": {
+          "activity_ids": [
+            "16313974024",
+            "16314098967"
+          ],
+          "count": 2,
+          "distance": 9696.3,
+          "elevation_gain": 13.0,
+          "moving_time": 1582.0
+        },
+        "2025-11-01": {
+          "activity_ids": [
+            "16323615217"
+          ],
+          "count": 1,
+          "distance": 59612.2,
+          "elevation_gain": 576.0,
+          "moving_time": 8209.0
+        },
+        "2025-11-03": {
+          "activity_ids": [
+            "16339024344",
+            "16343229353"
+          ],
+          "count": 2,
+          "distance": 9665.9,
+          "elevation_gain": 10.0,
+          "moving_time": 1490.0
+        },
+        "2025-11-05": {
+          "activity_ids": [
+            "16360508180",
+            "16381369326"
+          ],
+          "count": 2,
+          "distance": 9741.2,
+          "elevation_gain": 10.0,
+          "moving_time": 1398.0
+        },
+        "2025-11-07": {
+          "activity_ids": [
+            "16381446246"
+          ],
+          "count": 1,
+          "distance": 4989.2,
+          "elevation_gain": 2.0,
+          "moving_time": 732.0
+        },
+        "2025-11-08": {
+          "activity_ids": [
+            "16400756492"
+          ],
+          "count": 1,
+          "distance": 5691.3,
+          "elevation_gain": 10.0,
+          "moving_time": 978.0
+        },
+        "2025-11-09": {
+          "activity_ids": [
+            "16403047770",
+            "16406068579"
+          ],
+          "count": 2,
+          "distance": 111840.6,
+          "elevation_gain": 411.0,
+          "moving_time": 14009.0
+        },
+        "2025-11-13": {
+          "activity_ids": [
+            "16447612299",
+            "16447612633"
+          ],
+          "count": 2,
+          "distance": 50940.100000000006,
+          "elevation_gain": 91.0,
+          "moving_time": 5991.0
+        },
+        "2025-11-21": {
+          "activity_ids": [
+            "16525770662",
+            "16526767383"
+          ],
+          "count": 2,
+          "distance": 45042.200000000004,
+          "elevation_gain": 151.0,
+          "moving_time": 5528.0
+        },
+        "2025-11-26": {
+          "activity_ids": [
+            "16575707075"
+          ],
+          "count": 1,
+          "distance": 23459.7,
+          "elevation_gain": 0.0,
+          "moving_time": 5106.0
+        },
+        "2025-11-29": {
+          "activity_ids": [
+            "16599989091",
+            "16601253110"
+          ],
+          "count": 2,
+          "distance": 69221.09999999999,
+          "elevation_gain": 132.0,
+          "moving_time": 8421.0
+        },
+        "2025-12-06": {
+          "activity_ids": [
+            "16666162193"
+          ],
+          "count": 1,
+          "distance": 63144.2,
+          "elevation_gain": 210.0,
+          "moving_time": 8334.0
+        },
+        "2025-12-14": {
+          "activity_ids": [
+            "16741803520",
+            "16742400774",
+            "16744290831"
+          ],
+          "count": 3,
+          "distance": 65381.2,
+          "elevation_gain": 306.0,
+          "moving_time": 8717.0
+        },
+        "2025-12-17": {
+          "activity_ids": [
+            "16765501324",
+            "16769508296"
+          ],
+          "count": 2,
+          "distance": 9657.5,
+          "elevation_gain": 10.0,
+          "moving_time": 1426.0
+        },
+        "2025-12-19": {
+          "activity_ids": [
+            "16786182790",
+            "16786192875",
+            "16806391236"
+          ],
+          "count": 3,
+          "distance": 28628.7,
+          "elevation_gain": 59.0,
+          "moving_time": 3334.0
+        },
+        "2025-12-21": {
+          "activity_ids": [
+            "16801769231"
+          ],
+          "count": 1,
+          "distance": 103019.0,
+          "elevation_gain": 285.0,
+          "moving_time": 12172.0
+        },
+        "2025-12-22": {
+          "activity_ids": [
+            "16810534576"
+          ],
+          "count": 1,
+          "distance": 77326.7,
+          "elevation_gain": 334.0,
+          "moving_time": 11286.0
+        }
+      },
+      "VirtualRide": {
+        "2025-09-12": {
+          "activity_ids": [
+            "15784495493",
+            "15786365074",
+            "15786587661"
+          ],
+          "count": 3,
+          "distance": 27863.300000000003,
+          "elevation_gain": 128.0,
+          "moving_time": 3605.0
+        },
+        "2025-09-23": {
+          "activity_ids": [
+            "15912376120"
+          ],
+          "count": 1,
+          "distance": 20551.7,
+          "elevation_gain": 0.0,
+          "moving_time": 3600.0
+        },
+        "2025-09-24": {
+          "activity_ids": [
+            "15924288062"
+          ],
+          "count": 1,
+          "distance": 18524.3,
+          "elevation_gain": 0.0,
+          "moving_time": 3600.0
+        },
+        "2025-09-28": {
+          "activity_ids": [
+            "15965892967"
+          ],
+          "count": 1,
+          "distance": 27323.9,
+          "elevation_gain": 0.0,
+          "moving_time": 5400.0
+        },
+        "2025-09-30": {
+          "activity_ids": [
+            "15990317531"
+          ],
+          "count": 1,
+          "distance": 10644.4,
+          "elevation_gain": 0.0,
+          "moving_time": 3426.0
+        },
+        "2025-10-02": {
+          "activity_ids": [
+            "16012933898"
+          ],
+          "count": 1,
+          "distance": 25940.1,
+          "elevation_gain": 0.0,
+          "moving_time": 3600.0
+        },
+        "2025-10-04": {
+          "activity_ids": [
+            "16033745294"
+          ],
+          "count": 1,
+          "distance": 21166.6,
+          "elevation_gain": 0.0,
+          "moving_time": 2700.0
+        },
+        "2025-10-07": {
+          "activity_ids": [
+            "16059701739"
+          ],
+          "count": 1,
+          "distance": 28987.5,
+          "elevation_gain": 0.0,
+          "moving_time": 3600.0
+        },
+        "2025-10-13": {
+          "activity_ids": [
+            "16130312170"
+          ],
+          "count": 1,
+          "distance": 34289.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4204.0
+        },
+        "2025-10-16": {
+          "activity_ids": [
+            "16162819600"
+          ],
+          "count": 1,
+          "distance": 41107.1,
+          "elevation_gain": 0.0,
+          "moving_time": 5400.0
+        },
+        "2025-10-18": {
+          "activity_ids": [
+            "16177538152"
+          ],
+          "count": 1,
+          "distance": 38430.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4504.0
+        },
+        "2025-10-23": {
+          "activity_ids": [
+            "16234968734"
+          ],
+          "count": 1,
+          "distance": 43703.8,
+          "elevation_gain": 0.0,
+          "moving_time": 5400.0
+        },
+        "2025-10-24": {
+          "activity_ids": [
+            "16244360307"
+          ],
+          "count": 1,
+          "distance": 31194.4,
+          "elevation_gain": 0.0,
+          "moving_time": 3600.0
+        },
+        "2025-10-28": {
+          "activity_ids": [
+            "16286221448"
+          ],
+          "count": 1,
+          "distance": 28990.7,
+          "elevation_gain": 0.0,
+          "moving_time": 3424.0
+        },
+        "2025-11-02": {
+          "activity_ids": [
+            "16335375414"
+          ],
+          "count": 1,
+          "distance": 45487.0,
+          "elevation_gain": 0.0,
+          "moving_time": 5400.0
+        },
+        "2025-11-04": {
+          "activity_ids": [
+            "16355383903"
+          ],
+          "count": 1,
+          "distance": 29333.1,
+          "elevation_gain": 0.0,
+          "moving_time": 3600.0
+        },
+        "2025-11-06": {
+          "activity_ids": [
+            "16377433185"
+          ],
+          "count": 1,
+          "distance": 43265.3,
+          "elevation_gain": 0.0,
+          "moving_time": 5400.0
+        },
+        "2025-11-12": {
+          "activity_ids": [
+            "16438566007"
+          ],
+          "count": 1,
+          "distance": 29480.1,
+          "elevation_gain": 0.0,
+          "moving_time": 3600.0
+        },
+        "2025-11-15": {
+          "activity_ids": [
+            "16466138706"
+          ],
+          "count": 1,
+          "distance": 18874.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2124.0
+        },
+        "2025-11-16": {
+          "activity_ids": [
+            "16478328398"
+          ],
+          "count": 1,
+          "distance": 36564.7,
+          "elevation_gain": 0.0,
+          "moving_time": 4500.0
+        },
+        "2025-11-17": {
+          "activity_ids": [
+            "16488175164"
+          ],
+          "count": 1,
+          "distance": 37476.9,
+          "elevation_gain": 0.0,
+          "moving_time": 4530.0
+        },
+        "2025-11-19": {
+          "activity_ids": [
+            "16508411337"
+          ],
+          "count": 1,
+          "distance": 29347.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3480.0
+        },
+        "2025-11-24": {
+          "activity_ids": [
+            "16555777201"
+          ],
+          "count": 1,
+          "distance": 44718.9,
+          "elevation_gain": 0.0,
+          "moving_time": 5400.0
+        },
+        "2025-11-26": {
+          "activity_ids": [
+            "16575699147"
+          ],
+          "count": 1,
+          "distance": 44338.3,
+          "elevation_gain": 0.0,
+          "moving_time": 5400.0
+        },
+        "2025-12-02": {
+          "activity_ids": [
+            "16632507498"
+          ],
+          "count": 1,
+          "distance": 37820.8,
+          "elevation_gain": 0.0,
+          "moving_time": 4500.0
+        },
+        "2025-12-04": {
+          "activity_ids": [
+            "16650886403"
+          ],
+          "count": 1,
+          "distance": 53795.9,
+          "elevation_gain": 0.0,
+          "moving_time": 6300.0
+        },
+        "2025-12-09": {
+          "activity_ids": [
+            "16695875468"
+          ],
+          "count": 1,
+          "distance": 37326.8,
+          "elevation_gain": 0.0,
+          "moving_time": 4500.0
+        },
+        "2025-12-18": {
+          "activity_ids": [
+            "16779412849"
+          ],
+          "count": 1,
+          "distance": 53324.3,
+          "elevation_gain": 0.0,
+          "moving_time": 6300.0
+        },
+        "2025-12-27": {
+          "activity_ids": [
+            "16857496811"
+          ],
+          "count": 1,
+          "distance": 52663.5,
+          "elevation_gain": 0.0,
+          "moving_time": 6300.0
+        },
+        "2025-12-29": {
+          "activity_ids": [
+            "16873658797"
+          ],
+          "count": 1,
+          "distance": 37193.1,
+          "elevation_gain": 0.0,
+          "moving_time": 4500.0
+        },
+        "2025-12-30": {
+          "activity_ids": [
+            "16883103559"
+          ],
+          "count": 1,
+          "distance": 38133.6,
+          "elevation_gain": 0.0,
+          "moving_time": 4500.0
+        }
+      }
+    },
+    "2026": {
+      "Ride": {
+        "2026-01-09": {
+          "activity_ids": [
+            "16989640602",
+            "16989958899",
+            "16993398339"
+          ],
+          "count": 3,
+          "distance": 39379.3,
+          "elevation_gain": 13.0,
+          "moving_time": 7074.0
+        },
+        "2026-01-14": {
+          "activity_ids": [
+            "17048423447"
+          ],
+          "count": 1,
+          "distance": 101325.0,
+          "elevation_gain": 1926.0,
+          "moving_time": 16084.0
+        },
+        "2026-01-15": {
+          "activity_ids": [
+            "17059787949"
+          ],
+          "count": 1,
+          "distance": 116500.0,
+          "elevation_gain": 2411.0,
+          "moving_time": 18621.0
+        },
+        "2026-01-16": {
+          "activity_ids": [
+            "17069613132"
+          ],
+          "count": 1,
+          "distance": 50769.0,
+          "elevation_gain": 1531.0,
+          "moving_time": 10405.0
+        },
+        "2026-01-17": {
+          "activity_ids": [
+            "17084543442"
+          ],
+          "count": 1,
+          "distance": 178431.0,
+          "elevation_gain": 4023.6,
+          "moving_time": 32872.0
+        },
+        "2026-01-19": {
+          "activity_ids": [
+            "17105161874"
+          ],
+          "count": 1,
+          "distance": 142204.0,
+          "elevation_gain": 3561.0,
+          "moving_time": 25586.0
+        },
+        "2026-01-26": {
+          "activity_ids": [
+            "17182500934"
+          ],
+          "count": 1,
+          "distance": 23037.1,
+          "elevation_gain": 0.0,
+          "moving_time": 4275.0
+        },
+        "2026-01-27": {
+          "activity_ids": [
+            "17197639766"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2214.0
+        },
+        "2026-01-28": {
+          "activity_ids": [
+            "17207373146"
+          ],
+          "count": 1,
+          "distance": 30438.5,
+          "elevation_gain": 0.0,
+          "moving_time": 3600.0
+        },
+        "2026-01-29": {
+          "activity_ids": [
+            "17220325734"
+          ],
+          "count": 1,
+          "distance": 32203.4,
+          "elevation_gain": 0.0,
+          "moving_time": 3600.0
+        },
+        "2026-01-31": {
+          "activity_ids": [
+            "17236227257"
+          ],
+          "count": 1,
+          "distance": 45872.6,
+          "elevation_gain": 0.0,
+          "moving_time": 5400.0
+        },
+        "2026-02-01": {
+          "activity_ids": [
+            "17253787529"
+          ],
+          "count": 1,
+          "distance": 37555.2,
+          "elevation_gain": 0.0,
+          "moving_time": 4500.0
+        },
+        "2026-02-02": {
+          "activity_ids": [
+            "17262234552"
+          ],
+          "count": 1,
+          "distance": 6841.1,
+          "elevation_gain": 15.6,
+          "moving_time": 1253.0
+        },
+        "2026-02-03": {
+          "activity_ids": [
+            "17272050704",
+            "17274285362",
+            "17276476629"
+          ],
+          "count": 3,
+          "distance": 46862.600000000006,
+          "elevation_gain": 42.5,
+          "moving_time": 6783.0
+        },
+        "2026-02-04": {
+          "activity_ids": [
+            "17320743359"
+          ],
+          "count": 1,
+          "distance": 8342.4,
+          "elevation_gain": 16.5,
+          "moving_time": 1625.0
+        },
+        "2026-02-06": {
+          "activity_ids": [
+            "17308402071"
+          ],
+          "count": 1,
+          "distance": 23318.1,
+          "elevation_gain": 0.0,
+          "moving_time": 2524.0
+        },
+        "2026-02-07": {
+          "activity_ids": [
+            "17319325710"
+          ],
+          "count": 1,
+          "distance": 45390.7,
+          "elevation_gain": 0.0,
+          "moving_time": 5400.0
+        },
+        "2026-02-09": {
+          "activity_ids": [
+            "17336319161",
+            "17340966009"
+          ],
+          "count": 2,
+          "distance": 21232.9,
+          "elevation_gain": 43.8,
+          "moving_time": 4153.0
+        },
+        "2026-02-10": {
+          "activity_ids": [
+            "17354296327",
+            "17354296589",
+            "17355361274"
+          ],
+          "count": 3,
+          "distance": 61703.899999999994,
+          "elevation_gain": 42.2,
+          "moving_time": 8293.0
+        },
+        "2026-02-12": {
+          "activity_ids": [
+            "17370800822",
+            "17377242520"
+          ],
+          "count": 2,
+          "distance": 39579.399999999994,
+          "elevation_gain": 17.2,
+          "moving_time": 5060.0
+        },
+        "2026-02-13": {
+          "activity_ids": [
+            "17381456812"
+          ],
+          "count": 1,
+          "distance": 5217.8,
+          "elevation_gain": 12.9,
+          "moving_time": 1104.0
+        },
+        "2026-02-15": {
+          "activity_ids": [
+            "17405097751"
+          ],
+          "count": 1,
+          "distance": 72803.9,
+          "elevation_gain": 0.0,
+          "moving_time": 9000.0
+        },
+        "2026-02-17": {
+          "activity_ids": [
+            "17424423375",
+            "17431251930"
+          ],
+          "count": 2,
+          "distance": 33718.9,
+          "elevation_gain": 11.6,
+          "moving_time": 4345.0
+        },
+        "2026-02-18": {
+          "activity_ids": [
+            "17441993211"
+          ],
+          "count": 1,
+          "distance": 13244.1,
+          "elevation_gain": 26.4,
+          "moving_time": 2526.0
+        },
+        "2026-02-19": {
+          "activity_ids": [
+            "17447578094",
+            "17452946391"
+          ],
+          "count": 2,
+          "distance": 15313.0,
+          "elevation_gain": 35.5,
+          "moving_time": 2767.0
+        },
+        "2026-02-20": {
+          "activity_ids": [
+            "17464328532"
+          ],
+          "count": 1,
+          "distance": 46520.8,
+          "elevation_gain": 0.0,
+          "moving_time": 5400.0
+        },
+        "2026-02-22": {
+          "activity_ids": [
+            "17486700109"
+          ],
+          "count": 1,
+          "distance": 61951.4,
+          "elevation_gain": 0.0,
+          "moving_time": 7200.0
+        },
+        "2026-02-23": {
+          "activity_ids": [
+            "17491461086",
+            "17496777831"
+          ],
+          "count": 2,
+          "distance": 21594.6,
+          "elevation_gain": 44.2,
+          "moving_time": 3972.0
+        },
+        "2026-02-24": {
+          "activity_ids": [
+            "17502672017",
+            "17508547127"
+          ],
+          "count": 2,
+          "distance": 16452.1,
+          "elevation_gain": 40.599999999999994,
+          "moving_time": 2790.0
+        },
+        "2026-02-25": {
+          "activity_ids": [
+            "17514780581",
+            "17520338938",
+            "17521760881"
+          ],
+          "count": 3,
+          "distance": 24429.8,
+          "elevation_gain": 47.2,
+          "moving_time": 4268.0
+        },
+        "2026-02-26": {
+          "activity_ids": [
+            "17526995792",
+            "17531366097",
+            "17533033111"
+          ],
+          "count": 3,
+          "distance": 70923.0,
+          "elevation_gain": 146.4,
+          "moving_time": 9141.0
+        },
+        "2026-02-27": {
+          "activity_ids": [
+            "17543933291",
+            "17545013698",
+            "17546068972"
+          ],
+          "count": 3,
+          "distance": 74659.3,
+          "elevation_gain": 183.0,
+          "moving_time": 10520.0
+        },
+        "2026-02-28": {
+          "activity_ids": [
+            "17552524175"
+          ],
+          "count": 1,
+          "distance": 33472.9,
+          "elevation_gain": 71.0,
+          "moving_time": 4304.0
+        },
+        "2026-03-01": {
+          "activity_ids": [
+            "17563506590",
+            "17566589242"
+          ],
+          "count": 2,
+          "distance": 20412.6,
+          "elevation_gain": 94.1,
+          "moving_time": 3653.0
+        },
+        "2026-03-02": {
+          "activity_ids": [
+            "17573097773",
+            "17578536942",
+            "17579905795"
+          ],
+          "count": 3,
+          "distance": 26607.800000000003,
+          "elevation_gain": 42.7,
+          "moving_time": 4988.0
+        },
+        "2026-03-03": {
+          "activity_ids": [
+            "17592799467"
+          ],
+          "count": 1,
+          "distance": 31776.3,
+          "elevation_gain": 0.0,
+          "moving_time": 3600.0
+        },
+        "2026-03-04": {
+          "activity_ids": [
+            "17597731587",
+            "17603777996"
+          ],
+          "count": 2,
+          "distance": 17376.5,
+          "elevation_gain": 46.6,
+          "moving_time": 2858.0
+        },
+        "2026-03-05": {
+          "activity_ids": [
+            "17612332426",
+            "17614944293",
+            "17616369595"
+          ],
+          "count": 3,
+          "distance": 60858.399999999994,
+          "elevation_gain": 145.0,
+          "moving_time": 7355.0
+        },
+        "2026-03-06": {
+          "activity_ids": [
+            "17631723797",
+            "17631723842",
+            "17631723845",
+            "17631723851"
+          ],
+          "count": 4,
+          "distance": 25861.199999999997,
+          "elevation_gain": 49.599999999999994,
+          "moving_time": 4579.0
+        },
+        "2026-03-07": {
+          "activity_ids": [
+            "17634037802",
+            "17637973049"
+          ],
+          "count": 2,
+          "distance": 35582.4,
+          "elevation_gain": 72.8,
+          "moving_time": 4713.0
+        },
+        "2026-03-08": {
+          "activity_ids": [
+            "17649686214"
+          ],
+          "count": 1,
+          "distance": 118222.0,
+          "elevation_gain": 326.0,
+          "moving_time": 14068.0
+        },
+        "2026-03-09": {
+          "activity_ids": [
+            "17656930620",
+            "17662403562"
+          ],
+          "count": 2,
+          "distance": 17560.6,
+          "elevation_gain": 55.0,
+          "moving_time": 2583.0
+        }
+      },
+      "VirtualRide": {
+        "2026-01-02": {
+          "activity_ids": [
+            "16911558745"
+          ],
+          "count": 1,
+          "distance": 29986.6,
+          "elevation_gain": 0.0,
+          "moving_time": 3600.0
+        },
+        "2026-01-05": {
+          "activity_ids": [
+            "16949145946"
+          ],
+          "count": 1,
+          "distance": 55465.1,
+          "elevation_gain": 0.0,
+          "moving_time": 6300.0
+        },
+        "2026-01-07": {
+          "activity_ids": [
+            "16971242848"
+          ],
+          "count": 1,
+          "distance": 53571.6,
+          "elevation_gain": 0.0,
+          "moving_time": 6300.0
+        },
+        "2026-01-26": {
+          "activity_ids": [
+            "17182479720"
+          ],
+          "count": 1,
+          "distance": 36540.5,
+          "elevation_gain": 0.0,
+          "moving_time": 4500.0
+        }
+      },
+      "WeightTraining": {
+        "2026-01-26": {
+          "activity_ids": [
+            "17239980326"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3246.0
+        },
+        "2026-01-27": {
+          "activity_ids": [
+            "17239957672"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2837.0
+        },
+        "2026-01-30": {
+          "activity_ids": [
+            "17245976170"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2929.0
+        },
+        "2026-02-02": {
+          "activity_ids": [
+            "17262837335"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2565.0
+        },
+        "2026-02-04": {
+          "activity_ids": [
+            "17287127037"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3209.0
+        },
+        "2026-02-08": {
+          "activity_ids": [
+            "17329485906"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3361.0
+        },
+        "2026-02-09": {
+          "activity_ids": [
+            "17342244003"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 5120.0
+        },
+        "2026-02-11": {
+          "activity_ids": [
+            "17365929349"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4733.0
+        },
+        "2026-02-14": {
+          "activity_ids": [
+            "17396619594"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3547.0
+        },
+        "2026-02-18": {
+          "activity_ids": [
+            "17442773488"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3061.0
+        },
+        "2026-02-19": {
+          "activity_ids": [
+            "17453842718"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4097.0
+        },
+        "2026-02-23": {
+          "activity_ids": [
+            "17497756954"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3437.0
+        },
+        "2026-02-25": {
+          "activity_ids": [
+            "17521370878"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3516.0
+        },
+        "2026-03-02": {
+          "activity_ids": [
+            "17579569477"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2972.0
+        },
+        "2026-03-06": {
+          "activity_ids": [
+            "17628018707"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3392.0
+        },
+        "2026-03-10": {
+          "activity_ids": [
+            "17676069531"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3708.0
+        }
+      }
+    }
+  },
+  "generated_at": "2026-03-11T15:01:47.500952+00:00",
+  "other_bucket": "OtherSports",
+  "profile_url": "https://www.strava.com/athletes/43779850",
+  "repo": "FSaal/git-sweaty",
+  "source": "strava",
+  "strava_profile_url": "https://www.strava.com/athletes/43779850",
+  "type_meta": {
+    "AlpineSki": {
+      "accent": "#72efdd",
+      "label": "Alpine Ski"
+    },
+    "Ride": {
+      "accent": "#05ffa1",
+      "label": "Ride"
+    },
+    "VirtualRide": {
+      "accent": "#fee440",
+      "label": "Virtual Ride"
+    },
+    "WeightTraining": {
+      "accent": "#ff71ce",
+      "label": "Weight Training"
+    }
+  },
+  "types": [
+    "AlpineSki",
+    "Ride",
+    "VirtualRide",
+    "WeightTraining"
+  ],
+  "units": {
+    "distance": "km",
+    "elevation": "m"
+  },
+  "week_start": "monday",
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ]
+}
