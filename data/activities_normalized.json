@@ -5172,5 +5172,18 @@
     "start_date_local": "2026-03-12T20:42:12Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-13",
+    "distance": 52932.9,
+    "elevation_gain": 265.0,
+    "id": "17710834206",
+    "moving_time": 6257.0,
+    "name": "Eichorn +1",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-13T17:34:08Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
