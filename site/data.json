@@ -3626,6 +3626,33 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/17750930102",
       "year": 2026
+    },
+    {
+      "date": "2026-03-17",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17756327514",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-17",
+      "hour": 18,
+      "name": "Phoenix -3",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17758184854",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-18",
+      "hour": 9,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17763647556",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5873,12 +5900,23 @@
         },
         "2026-03-17": {
           "activity_ids": [
-            "17750930102"
+            "17750930102",
+            "17756327514",
+            "17758184854"
+          ],
+          "count": 3,
+          "distance": 68408.9,
+          "elevation_gain": 149.4,
+          "moving_time": 9010.0
+        },
+        "2026-03-18": {
+          "activity_ids": [
+            "17763647556"
           ],
           "count": 1,
-          "distance": 9087.0,
-          "elevation_gain": 22.7,
-          "moving_time": 1512.0
+          "distance": 9037.7,
+          "elevation_gain": 22.9,
+          "moving_time": 1504.0
         }
       },
       "VirtualRide": {
@@ -6085,7 +6123,7 @@
       }
     }
   },
-  "generated_at": "2026-03-17T15:22:33.081797+00:00",
+  "generated_at": "2026-03-18T15:26:43.224640+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/43779850",
   "repo": "FSaal/git-sweaty",

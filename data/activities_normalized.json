@@ -5237,5 +5237,44 @@
     "start_date_local": "2026-03-17T08:46:10Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-17",
+    "distance": 9424.8,
+    "elevation_gain": 31.7,
+    "id": "17756327514",
+    "moving_time": 1535.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-17T17:37:32Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-17",
+    "distance": 49897.1,
+    "elevation_gain": 95.0,
+    "id": "17758184854",
+    "moving_time": 5963.0,
+    "name": "Phoenix -3",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-17T18:21:35Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-18",
+    "distance": 9037.7,
+    "elevation_gain": 22.9,
+    "id": "17763647556",
+    "moving_time": 1504.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-18T09:04:59Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
