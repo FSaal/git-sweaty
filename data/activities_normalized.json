@@ -5315,5 +5315,44 @@
     "start_date_local": "2026-03-19T18:50:59Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-20",
+    "distance": 5016.9,
+    "elevation_gain": 4.6,
+    "id": "17793274364",
+    "moving_time": 926.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-20T17:45:39Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-20",
+    "distance": 5776.5,
+    "elevation_gain": 12.4,
+    "id": "17796314024",
+    "moving_time": 1392.0,
+    "name": "Night Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-20T23:11:28Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-21",
+    "distance": 79059.9,
+    "elevation_gain": 1062.0,
+    "id": "17802195283",
+    "moving_time": 10361.0,
+    "name": "Auf der Suche nach \"Bergen\"",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-21T10:26:46Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
