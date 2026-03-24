@@ -3725,6 +3725,42 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/17824610778",
       "year": 2026
+    },
+    {
+      "date": "2026-03-23",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17829790679",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-23",
+      "hour": 18,
+      "name": "Training am Abend",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17830509155",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-23",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17830942377",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-24",
+      "hour": 7,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17838793914",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6030,12 +6066,23 @@
         },
         "2026-03-23": {
           "activity_ids": [
-            "17824610778"
+            "17824610778",
+            "17829790679",
+            "17830942377"
+          ],
+          "count": 3,
+          "distance": 18483.899999999998,
+          "elevation_gain": 47.50000000000001,
+          "moving_time": 3281.0
+        },
+        "2026-03-24": {
+          "activity_ids": [
+            "17838793914"
           ],
           "count": 1,
-          "distance": 9053.6,
-          "elevation_gain": 22.8,
-          "moving_time": 1530.0
+          "distance": 9208.2,
+          "elevation_gain": 28.0,
+          "moving_time": 1321.0
         }
       },
       "VirtualRide": {
@@ -6247,11 +6294,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2827.0
+        },
+        "2026-03-23": {
+          "activity_ids": [
+            "17830509155"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2791.0
         }
       }
     }
   },
-  "generated_at": "2026-03-23T15:21:45.365723+00:00",
+  "generated_at": "2026-03-24T15:24:27.748440+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/43779850",
   "repo": "FSaal/git-sweaty",
