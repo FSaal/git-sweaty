@@ -3761,6 +3761,33 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/17838793914",
       "year": 2026
+    },
+    {
+      "date": "2026-03-24",
+      "hour": 16,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17842054266",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-24",
+      "hour": 17,
+      "name": "Dade -1",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17843459609",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-25",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17850264405",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6077,12 +6104,23 @@
         },
         "2026-03-24": {
           "activity_ids": [
-            "17838793914"
+            "17838793914",
+            "17842054266",
+            "17843459609"
+          ],
+          "count": 3,
+          "distance": 53695.8,
+          "elevation_gain": 134.0,
+          "moving_time": 6919.0
+        },
+        "2026-03-25": {
+          "activity_ids": [
+            "17850264405"
           ],
           "count": 1,
-          "distance": 9208.2,
-          "elevation_gain": 28.0,
-          "moving_time": 1321.0
+          "distance": 8971.4,
+          "elevation_gain": 22.5,
+          "moving_time": 1545.0
         }
       },
       "VirtualRide": {
@@ -6307,7 +6345,7 @@
       }
     }
   },
-  "generated_at": "2026-03-24T15:24:27.748440+00:00",
+  "generated_at": "2026-03-25T15:25:11.526383+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/43779850",
   "repo": "FSaal/git-sweaty",
