@@ -5562,5 +5562,44 @@
     "start_date_local": "2026-03-28T01:28:53Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 46847.8,
+    "elevation_gain": 167.0,
+    "id": "17891060861",
+    "moving_time": 5555.0,
+    "name": "Three Sisters",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-28T15:59:54Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-29",
+    "distance": 7270.2,
+    "elevation_gain": 15.1,
+    "id": "17897320279",
+    "moving_time": 1295.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-29T10:40:55Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-29",
+    "distance": 6391.2,
+    "elevation_gain": 19.5,
+    "id": "17900162331",
+    "moving_time": 1135.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-29T13:42:58Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
