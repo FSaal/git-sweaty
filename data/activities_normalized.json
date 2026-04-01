@@ -5679,5 +5679,31 @@
     "start_date_local": "2026-03-31T09:18:36Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-31",
+    "distance": 9132.6,
+    "elevation_gain": 31.5,
+    "id": "17927412700",
+    "moving_time": 1664.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-31T18:28:43Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-31",
+    "distance": 29354.6,
+    "elevation_gain": 0.0,
+    "id": "17929126334",
+    "moving_time": 3600.0,
+    "name": "Emerald",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-31T20:00:13Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
