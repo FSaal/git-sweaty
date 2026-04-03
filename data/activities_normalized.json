@@ -5744,5 +5744,18 @@
     "start_date_local": "2026-04-01T18:50:48Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-02",
+    "distance": 58996.7,
+    "elevation_gain": 299.0,
+    "id": "17952958470",
+    "moving_time": 6900.0,
+    "name": "Antelope +2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-02T17:34:57Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
