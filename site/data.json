@@ -3986,6 +3986,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/17952958470",
       "year": 2026
+    },
+    {
+      "date": "2026-04-04",
+      "hour": 12,
+      "name": "Lunch Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/17972270646",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-04",
+      "hour": 12,
+      "name": "Lunch Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/17975384540",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6434,6 +6452,18 @@
           "moving_time": 4500.0
         }
       },
+      "Walk": {
+        "2026-04-04": {
+          "activity_ids": [
+            "17972270646",
+            "17975384540"
+          ],
+          "count": 2,
+          "distance": 11331.1,
+          "elevation_gain": 159.0,
+          "moving_time": 10072.0
+        }
+      },
       "WeightTraining": {
         "2026-01-26": {
           "activity_ids": [
@@ -6645,7 +6675,7 @@
       }
     }
   },
-  "generated_at": "2026-04-03T15:14:48.204072+00:00",
+  "generated_at": "2026-04-04T15:07:35.905543+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/43779850",
   "repo": "FSaal/git-sweaty",
@@ -6664,6 +6694,10 @@
       "accent": "#fee440",
       "label": "Virtual Ride"
     },
+    "Walk": {
+      "accent": "#d6ff6b",
+      "label": "Walk"
+    },
     "WeightTraining": {
       "accent": "#ff71ce",
       "label": "Weight Training"
@@ -6673,6 +6707,7 @@
     "AlpineSki",
     "Ride",
     "VirtualRide",
+    "Walk",
     "WeightTraining"
   ],
   "units": {
