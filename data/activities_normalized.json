@@ -5822,5 +5822,31 @@
     "start_date_local": "2026-04-07T08:38:18Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-07",
+    "distance": 8309.1,
+    "elevation_gain": 23.9,
+    "id": "18015110649",
+    "moving_time": 1384.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-07T17:51:19Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-07",
+    "distance": 32116.5,
+    "elevation_gain": 67.0,
+    "id": "18016485914",
+    "moving_time": 3816.0,
+    "name": "Kaiser -1",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-07T18:36:11Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
