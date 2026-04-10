@@ -5874,5 +5874,18 @@
     "start_date_local": "2026-04-08T23:12:40Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-09",
+    "distance": 236950.0,
+    "elevation_gain": 1064.0,
+    "id": "18045687001",
+    "moving_time": 28499.0,
+    "name": "Berlin Harz",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-09T09:44:01Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
