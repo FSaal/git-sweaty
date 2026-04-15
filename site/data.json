@@ -4103,6 +4103,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18083682375",
       "year": 2026
+    },
+    {
+      "date": "2026-04-14",
+      "hour": 18,
+      "name": "Training am Abend",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18107399881",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6837,11 +6846,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 6014.0
+        },
+        "2026-04-14": {
+          "activity_ids": [
+            "18107399881"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2764.0
         }
       }
     }
   },
-  "generated_at": "2026-04-14T15:26:13.739891+00:00",
+  "generated_at": "2026-04-15T15:26:04.041089+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/43779850",
   "repo": "FSaal/git-sweaty",
