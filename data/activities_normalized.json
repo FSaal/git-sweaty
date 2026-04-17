@@ -6017,5 +6017,31 @@
     "start_date_local": "2026-04-16T08:30:47Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 9119.9,
+    "elevation_gain": 31.2,
+    "id": "18133366733",
+    "moving_time": 1467.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-16T17:15:52Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 49506.3,
+    "elevation_gain": 92.0,
+    "id": "18135108969",
+    "moving_time": 5524.0,
+    "name": "Centennial -1",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-16T18:07:05Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
