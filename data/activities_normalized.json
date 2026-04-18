@@ -6043,5 +6043,57 @@
     "start_date_local": "2026-04-16T18:07:05Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 1558.0,
+    "elevation_gain": 10.0,
+    "id": "18153104285",
+    "moving_time": 202.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-18T05:58:33Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 3229.5,
+    "elevation_gain": 2.0,
+    "id": "18153177886",
+    "moving_time": 626.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-18T08:16:24Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 117346.0,
+    "elevation_gain": 327.0,
+    "id": "18156202611",
+    "moving_time": 12820.0,
+    "name": "Spreewald Marathon",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-18T08:59:35Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 36735.3,
+    "elevation_gain": 89.0,
+    "id": "18159364138",
+    "moving_time": 6501.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-18T14:22:31Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

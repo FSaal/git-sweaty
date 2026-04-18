@@ -4184,6 +4184,42 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18135108969",
       "year": 2026
+    },
+    {
+      "date": "2026-04-18",
+      "hour": 5,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18153104285",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-18",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18153177886",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-18",
+      "hour": 8,
+      "name": "Spreewald Marathon",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18156202611",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-18",
+      "hour": 14,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18159364138",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6681,6 +6717,18 @@
           "distance": 67602.4,
           "elevation_gain": 145.9,
           "moving_time": 8421.0
+        },
+        "2026-04-18": {
+          "activity_ids": [
+            "18153104285",
+            "18153177886",
+            "18156202611",
+            "18159364138"
+          ],
+          "count": 4,
+          "distance": 158868.8,
+          "elevation_gain": 428.0,
+          "moving_time": 20149.0
         }
       },
       "VirtualRide": {
@@ -6971,7 +7019,7 @@
       }
     }
   },
-  "generated_at": "2026-04-17T15:21:58.441638+00:00",
+  "generated_at": "2026-04-18T15:13:09.604800+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/43779850",
   "repo": "FSaal/git-sweaty",
