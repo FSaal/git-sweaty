@@ -6173,5 +6173,57 @@
     "start_date_local": "2026-04-20T17:00:50Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 594.8,
+    "elevation_gain": 4.0,
+    "id": "18199344414",
+    "moving_time": 131.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-21T08:14:54Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 9172.9,
+    "elevation_gain": 35.0,
+    "id": "18199344599",
+    "moving_time": 1247.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-21T17:23:28Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 9227.1,
+    "elevation_gain": 29.0,
+    "id": "18199344660",
+    "moving_time": 1273.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-21T08:20:22Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 38063.6,
+    "elevation_gain": 80.0,
+    "id": "18200778061",
+    "moving_time": 4297.0,
+    "name": "Isabel",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-21T18:02:51Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
