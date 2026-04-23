@@ -6225,5 +6225,18 @@
     "start_date_local": "2026-04-21T18:02:51Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18214199239",
+    "moving_time": 3079.0,
+    "name": "Training am Nachmittag",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-22T17:48:57Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
