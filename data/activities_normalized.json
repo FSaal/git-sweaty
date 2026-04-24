@@ -6238,5 +6238,18 @@
     "start_date_local": "2026-04-22T17:48:57Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 44428.9,
+    "elevation_gain": 98.0,
+    "id": "18227711191",
+    "moving_time": 5103.0,
+    "name": "Elwell +1",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-23T16:53:18Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
