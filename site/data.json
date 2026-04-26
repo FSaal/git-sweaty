@@ -4346,6 +4346,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18242611604",
       "year": 2026
+    },
+    {
+      "date": "2026-04-25",
+      "hour": 17,
+      "name": "Glassy +1",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18255602471",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6907,6 +6916,15 @@
           "distance": 10687.2,
           "elevation_gain": 14.5,
           "moving_time": 2823.0
+        },
+        "2026-04-25": {
+          "activity_ids": [
+            "18255602471"
+          ],
+          "count": 1,
+          "distance": 57889.3,
+          "elevation_gain": 390.0,
+          "moving_time": 6773.0
         }
       },
       "VirtualRide": {
@@ -7215,7 +7233,7 @@
       }
     }
   },
-  "generated_at": "2026-04-25T15:14:13.455291+00:00",
+  "generated_at": "2026-04-26T15:14:29.894681+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/43779850",
   "repo": "FSaal/git-sweaty",

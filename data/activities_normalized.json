@@ -6277,5 +6277,18 @@
     "start_date_local": "2026-04-24T20:34:22Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 57889.3,
+    "elevation_gain": 390.0,
+    "id": "18255602471",
+    "moving_time": 6773.0,
+    "name": "Glassy +1",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-25T17:34:21Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
