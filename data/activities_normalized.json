@@ -6342,5 +6342,44 @@
     "start_date_local": "2026-04-27T17:14:27Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-28",
+    "distance": 8533.5,
+    "elevation_gain": 21.0,
+    "id": "18293844231",
+    "moving_time": 1245.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-28T17:36:44Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-28",
+    "distance": 7102.2,
+    "elevation_gain": 23.0,
+    "id": "18296624082",
+    "moving_time": 844.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-28T20:40:04Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-28",
+    "distance": 68664.1,
+    "elevation_gain": 163.0,
+    "id": "18296624891",
+    "moving_time": 7316.0,
+    "name": "8Bar Community Ride South \ud83d\ude2e\u200d\ud83d\udca8",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-28T18:18:00Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

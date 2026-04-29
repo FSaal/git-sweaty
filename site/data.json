@@ -4391,6 +4391,33 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18293168949",
       "year": 2026
+    },
+    {
+      "date": "2026-04-28",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18293844231",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-28",
+      "hour": 20,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18296624082",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-28",
+      "hour": 18,
+      "name": "8Bar Community Ride South \ud83d\ude2e\u200d\ud83d\udca8",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18296624891",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6972,6 +6999,17 @@
           "distance": 25968.5,
           "elevation_gain": 45.3,
           "moving_time": 4361.0
+        },
+        "2026-04-28": {
+          "activity_ids": [
+            "18293844231",
+            "18296624082",
+            "18296624891"
+          ],
+          "count": 3,
+          "distance": 84299.8,
+          "elevation_gain": 207.0,
+          "moving_time": 9405.0
         }
       },
       "VirtualRide": {
@@ -7289,7 +7327,7 @@
       }
     }
   },
-  "generated_at": "2026-04-28T15:47:29.709466+00:00",
+  "generated_at": "2026-04-29T15:38:02.654042+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/43779850",
   "repo": "FSaal/git-sweaty",
