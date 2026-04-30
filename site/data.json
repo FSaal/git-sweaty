@@ -4418,6 +4418,33 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18296624891",
       "year": 2026
+    },
+    {
+      "date": "2026-04-29",
+      "hour": 18,
+      "name": "Evening Workout",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18309343413",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-29",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18309629137",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-30",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18318485266",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7010,6 +7037,24 @@
           "distance": 84299.8,
           "elevation_gain": 207.0,
           "moving_time": 9405.0
+        },
+        "2026-04-29": {
+          "activity_ids": [
+            "18309629137"
+          ],
+          "count": 1,
+          "distance": 3213.7,
+          "elevation_gain": 10.9,
+          "moving_time": 583.0
+        },
+        "2026-04-30": {
+          "activity_ids": [
+            "18318485266"
+          ],
+          "count": 1,
+          "distance": 9188.1,
+          "elevation_gain": 29.0,
+          "moving_time": 1227.0
         }
       },
       "VirtualRide": {
@@ -7323,11 +7368,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3430.0
+        },
+        "2026-04-29": {
+          "activity_ids": [
+            "18309343413"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3088.0
         }
       }
     }
   },
-  "generated_at": "2026-04-29T15:38:02.654042+00:00",
+  "generated_at": "2026-04-30T15:34:06.141774+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/43779850",
   "repo": "FSaal/git-sweaty",
