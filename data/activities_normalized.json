@@ -6420,5 +6420,44 @@
     "start_date_local": "2026-04-30T08:19:42Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 9224.9,
+    "elevation_gain": 34.0,
+    "id": "18320752876",
+    "moving_time": 1376.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-30T17:35:00Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 38423.3,
+    "elevation_gain": 75.0,
+    "id": "18322263961",
+    "moving_time": 4379.0,
+    "name": "Cramer",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-30T18:22:23Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 77703.6,
+    "elevation_gain": 290.0,
+    "id": "18332796228",
+    "moving_time": 10974.0,
+    "name": "Lunch Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-01T11:32:27Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
