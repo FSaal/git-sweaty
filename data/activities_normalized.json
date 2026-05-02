@@ -6459,5 +6459,18 @@
     "start_date_local": "2026-05-01T11:32:27Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 101598.0,
+    "elevation_gain": 215.0,
+    "id": "18346712165",
+    "moving_time": 12565.0,
+    "name": "THF Kreisel",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-02T12:06:09Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

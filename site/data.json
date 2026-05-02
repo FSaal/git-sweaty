@@ -4472,6 +4472,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18332796228",
       "year": 2026
+    },
+    {
+      "date": "2026-05-02",
+      "hour": 12,
+      "name": "THF Kreisel",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18346712165",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7093,6 +7102,15 @@
           "distance": 77703.6,
           "elevation_gain": 290.0,
           "moving_time": 10974.0
+        },
+        "2026-05-02": {
+          "activity_ids": [
+            "18346712165"
+          ],
+          "count": 1,
+          "distance": 101598.0,
+          "elevation_gain": 215.0,
+          "moving_time": 12565.0
         }
       },
       "VirtualRide": {
@@ -7419,7 +7437,7 @@
       }
     }
   },
-  "generated_at": "2026-05-01T15:20:52.267472+00:00",
+  "generated_at": "2026-05-02T15:15:20.159136+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/43779850",
   "repo": "FSaal/git-sweaty",
