@@ -4508,6 +4508,33 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18381679109",
       "year": 2026
+    },
+    {
+      "date": "2026-05-05",
+      "hour": 17,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18387063346",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-05",
+      "hour": 18,
+      "name": "Red Kaweah -2",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18388815368",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-06",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18395314070",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7151,12 +7178,23 @@
         },
         "2026-05-05": {
           "activity_ids": [
-            "18381679109"
+            "18381679109",
+            "18387063346",
+            "18388815368"
+          ],
+          "count": 3,
+          "distance": 56273.5,
+          "elevation_gain": 129.3,
+          "moving_time": 7685.0
+        },
+        "2026-05-06": {
+          "activity_ids": [
+            "18395314070"
           ],
           "count": 1,
-          "distance": 9082.9,
-          "elevation_gain": 23.2,
-          "moving_time": 1660.0
+          "distance": 9091.3,
+          "elevation_gain": 23.4,
+          "moving_time": 1666.0
         }
       },
       "VirtualRide": {
@@ -7483,7 +7521,7 @@
       }
     }
   },
-  "generated_at": "2026-05-05T15:34:21.471409+00:00",
+  "generated_at": "2026-05-06T15:45:30.994828+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/43779850",
   "repo": "FSaal/git-sweaty",
