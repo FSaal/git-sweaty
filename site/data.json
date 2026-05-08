@@ -4562,6 +4562,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18403001054",
       "year": 2026
+    },
+    {
+      "date": "2026-05-07",
+      "hour": 18,
+      "name": "Mount Foraker -1",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18415379348",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7224,6 +7233,15 @@
           "distance": 19164.2,
           "elevation_gain": 50.2,
           "moving_time": 3535.0
+        },
+        "2026-05-07": {
+          "activity_ids": [
+            "18415379348"
+          ],
+          "count": 1,
+          "distance": 37149.3,
+          "elevation_gain": 70.0,
+          "moving_time": 4308.0
         }
       },
       "VirtualRide": {
@@ -7559,7 +7577,7 @@
       }
     }
   },
-  "generated_at": "2026-05-07T15:46:00.743632+00:00",
+  "generated_at": "2026-05-08T15:31:34.550797+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/43779850",
   "repo": "FSaal/git-sweaty",
