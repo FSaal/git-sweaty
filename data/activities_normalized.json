@@ -6615,5 +6615,31 @@
     "start_date_local": "2026-05-09T07:53:38Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 88336.9,
+    "elevation_gain": 288.0,
+    "id": "18451062723",
+    "moving_time": 10509.0,
+    "name": "Flux RC Orbiter TT",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-10T10:19:52Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 9168.0,
+    "elevation_gain": 22.2,
+    "id": "18453665399",
+    "moving_time": 1617.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-10T16:11:49Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
