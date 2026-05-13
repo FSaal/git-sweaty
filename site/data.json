@@ -4634,6 +4634,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18466449038",
       "year": 2026
+    },
+    {
+      "date": "2026-05-11",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18478903332",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-12",
+      "hour": 18,
+      "name": "Black",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18480229332",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7329,12 +7347,22 @@
         "2026-05-11": {
           "activity_ids": [
             "18465170553",
-            "18465443415"
+            "18465443415",
+            "18478903332"
           ],
-          "count": 2,
-          "distance": 16291.0,
-          "elevation_gain": 56.0,
-          "moving_time": 2529.0
+          "count": 3,
+          "distance": 19709.2,
+          "elevation_gain": 79.0,
+          "moving_time": 3089.0
+        },
+        "2026-05-12": {
+          "activity_ids": [
+            "18480229332"
+          ],
+          "count": 1,
+          "distance": 37377.4,
+          "elevation_gain": 86.0,
+          "moving_time": 4797.0
         }
       },
       "VirtualRide": {
@@ -7679,7 +7707,7 @@
       }
     }
   },
-  "generated_at": "2026-05-12T15:50:55.187143+00:00",
+  "generated_at": "2026-05-13T15:52:05.509195+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/43779850",
   "repo": "FSaal/git-sweaty",
