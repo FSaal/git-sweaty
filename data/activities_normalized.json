@@ -6823,5 +6823,44 @@
     "start_date_local": "2026-05-18T17:39:56Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 46568.3,
+    "elevation_gain": 97.0,
+    "id": "18570604966",
+    "moving_time": 5153.0,
+    "name": "Presanella",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-19T17:29:02Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-20",
+    "distance": 8964.9,
+    "elevation_gain": 22.4,
+    "id": "18578183492",
+    "moving_time": 1493.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-20T09:01:00Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-20",
+    "distance": 9090.6,
+    "elevation_gain": 29.7,
+    "id": "18581090157",
+    "moving_time": 1630.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-20T13:49:18Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

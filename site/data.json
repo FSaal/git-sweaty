@@ -4724,6 +4724,33 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18559945780",
       "year": 2026
+    },
+    {
+      "date": "2026-05-19",
+      "hour": 17,
+      "name": "Presanella",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18570604966",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-20",
+      "hour": 9,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18578183492",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-20",
+      "hour": 13,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18581090157",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7455,6 +7482,25 @@
           "distance": 27083.199999999997,
           "elevation_gain": 68.0,
           "moving_time": 3856.0
+        },
+        "2026-05-19": {
+          "activity_ids": [
+            "18570604966"
+          ],
+          "count": 1,
+          "distance": 46568.3,
+          "elevation_gain": 97.0,
+          "moving_time": 5153.0
+        },
+        "2026-05-20": {
+          "activity_ids": [
+            "18578183492",
+            "18581090157"
+          ],
+          "count": 2,
+          "distance": 18055.5,
+          "elevation_gain": 52.099999999999994,
+          "moving_time": 3123.0
         }
       },
       "VirtualRide": {
@@ -7835,7 +7881,7 @@
       }
     }
   },
-  "generated_at": "2026-05-19T16:06:34.657108+00:00",
+  "generated_at": "2026-05-20T16:11:54.108009+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/43779850",
   "repo": "FSaal/git-sweaty",
