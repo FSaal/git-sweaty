@@ -6862,5 +6862,18 @@
     "start_date_local": "2026-05-20T13:49:18Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 42739.2,
+    "elevation_gain": 105.0,
+    "id": "18598817968",
+    "moving_time": 5021.0,
+    "name": "Chogolisa",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-21T18:42:32Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
