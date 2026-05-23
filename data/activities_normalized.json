@@ -6875,5 +6875,57 @@
     "start_date_local": "2026-05-21T18:42:32Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-22",
+    "distance": 3150.5,
+    "elevation_gain": 9.5,
+    "id": "18610020025",
+    "moving_time": 580.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-22T17:18:10Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-22",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18610712514",
+    "moving_time": 2543.0,
+    "name": "Evening Workout",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-22T18:14:56Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-22",
+    "distance": 2726.7,
+    "elevation_gain": 0.0,
+    "id": "18610907563",
+    "moving_time": 450.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-22T19:03:51Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-23",
+    "distance": 41507.3,
+    "elevation_gain": 202.0,
+    "id": "18620028783",
+    "moving_time": 4805.0,
+    "name": "Owsley",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-23T12:02:30Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

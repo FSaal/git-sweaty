@@ -4760,6 +4760,42 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18598817968",
       "year": 2026
+    },
+    {
+      "date": "2026-05-22",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18610020025",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-22",
+      "hour": 18,
+      "name": "Evening Workout",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18610712514",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-22",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18610907563",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-23",
+      "hour": 12,
+      "name": "Owsley",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18620028783",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7519,6 +7555,25 @@
           "distance": 42739.2,
           "elevation_gain": 105.0,
           "moving_time": 5021.0
+        },
+        "2026-05-22": {
+          "activity_ids": [
+            "18610020025",
+            "18610907563"
+          ],
+          "count": 2,
+          "distance": 5877.2,
+          "elevation_gain": 9.5,
+          "moving_time": 1030.0
+        },
+        "2026-05-23": {
+          "activity_ids": [
+            "18620028783"
+          ],
+          "count": 1,
+          "distance": 41507.3,
+          "elevation_gain": 202.0,
+          "moving_time": 4805.0
         }
       },
       "VirtualRide": {
@@ -7895,11 +7950,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3458.0
+        },
+        "2026-05-22": {
+          "activity_ids": [
+            "18610712514"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2543.0
         }
       }
     }
   },
-  "generated_at": "2026-05-22T15:54:03.251462+00:00",
+  "generated_at": "2026-05-23T15:23:07.805757+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/43779850",
   "repo": "FSaal/git-sweaty",
