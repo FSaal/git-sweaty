@@ -7018,5 +7018,31 @@
     "start_date_local": "2026-05-28T18:40:49Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-30",
+    "distance": 2351.1,
+    "elevation_gain": 2.5,
+    "id": "18713614622",
+    "moving_time": 2114.0,
+    "name": "Lunch Row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-05-30T12:14:31Z",
+    "type": "Rowing",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-30",
+    "distance": 5145.2,
+    "elevation_gain": 18.7,
+    "id": "18715828357",
+    "moving_time": 3656.0,
+    "name": "Afternoon Row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-05-30T14:08:48Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]
