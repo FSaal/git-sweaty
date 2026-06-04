@@ -7083,5 +7083,31 @@
     "start_date_local": "2026-06-02T16:27:09Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 7116.6,
+    "elevation_gain": 23.0,
+    "id": "18760071656",
+    "moving_time": 1063.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-02T17:30:47Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 68450.3,
+    "elevation_gain": 424.0,
+    "id": "18760152064",
+    "moving_time": 7485.0,
+    "name": "8Bar Group Ride West",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-02T18:17:26Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
