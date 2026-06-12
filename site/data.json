@@ -4960,6 +4960,15 @@
       "year": 2026
     },
     {
+      "date": "2026-06-06",
+      "hour": 13,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18887361458",
+      "year": 2026
+    },
+    {
       "date": "2026-06-07",
       "hour": 9,
       "name": "Morning Ride",
@@ -4978,6 +4987,33 @@
       "year": 2026
     },
     {
+      "date": "2026-06-08",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18887361454",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-08",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18887361478",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-08",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18887364654",
+      "year": 2026
+    },
+    {
       "date": "2026-06-09",
       "hour": 19,
       "name": "Evening Ride",
@@ -4993,6 +5029,33 @@
       "subtype": "WeightTraining",
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18868568694",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-11",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18887094892",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-11",
+      "hour": 20,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18887364663",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-11",
+      "hour": 23,
+      "name": "Night Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18887364801",
       "year": 2026
     }
   ],
@@ -7843,6 +7906,15 @@
           "elevation_gain": 66.0,
           "moving_time": 3520.0
         },
+        "2026-06-06": {
+          "activity_ids": [
+            "18887361458"
+          ],
+          "count": 1,
+          "distance": 6624.1,
+          "elevation_gain": 28.5,
+          "moving_time": 1154.0
+        },
         "2026-06-07": {
           "activity_ids": [
             "18821924356"
@@ -7852,6 +7924,17 @@
           "elevation_gain": 243.0,
           "moving_time": 11224.0
         },
+        "2026-06-08": {
+          "activity_ids": [
+            "18887361454",
+            "18887361478",
+            "18887364654"
+          ],
+          "count": 3,
+          "distance": 19477.8,
+          "elevation_gain": 50.3,
+          "moving_time": 3353.0
+        },
         "2026-06-09": {
           "activity_ids": [
             "18854588100"
@@ -7860,6 +7943,16 @@
           "distance": 30398.2,
           "elevation_gain": 64.0,
           "moving_time": 3599.0
+        },
+        "2026-06-11": {
+          "activity_ids": [
+            "18887094892",
+            "18887364801"
+          ],
+          "count": 2,
+          "distance": 20056.3,
+          "elevation_gain": 45.9,
+          "moving_time": 3006.0
         }
       },
       "Rowing": {
@@ -7872,6 +7965,17 @@
           "distance": 7496.299999999999,
           "elevation_gain": 21.2,
           "moving_time": 5770.0
+        }
+      },
+      "Run": {
+        "2026-06-11": {
+          "activity_ids": [
+            "18887364663"
+          ],
+          "count": 1,
+          "distance": 2691.8,
+          "elevation_gain": 0.0,
+          "moving_time": 1892.0
         }
       },
       "VirtualRide": {
@@ -8297,7 +8401,7 @@
       }
     }
   },
-  "generated_at": "2026-06-11T16:22:50.851931+00:00",
+  "generated_at": "2026-06-12T16:03:47.990434+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/43779850",
   "repo": "FSaal/git-sweaty",
@@ -8316,6 +8420,10 @@
       "accent": "#fee440",
       "label": "Rowing"
     },
+    "Run": {
+      "accent": "#01cdfe",
+      "label": "Run"
+    },
     "VirtualRide": {
       "accent": "#fee440",
       "label": "Virtual Ride"
@@ -8333,6 +8441,7 @@
     "AlpineSki",
     "Ride",
     "Rowing",
+    "Run",
     "VirtualRide",
     "Walk",
     "WeightTraining"
