@@ -5084,6 +5084,33 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18945023002",
       "year": 2026
+    },
+    {
+      "date": "2026-06-16",
+      "hour": 18,
+      "name": "Evening Workout",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18947050201",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-16",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18947471124",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-16",
+      "hour": 20,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18947471554",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8001,12 +8028,14 @@
         },
         "2026-06-16": {
           "activity_ids": [
-            "18945023002"
+            "18945023002",
+            "18947471124",
+            "18947471554"
           ],
-          "count": 1,
-          "distance": 8915.3,
-          "elevation_gain": 30.0,
-          "moving_time": 1189.0
+          "count": 3,
+          "distance": 26176.6,
+          "elevation_gain": 67.0,
+          "moving_time": 3550.0
         }
       },
       "Rowing": {
@@ -8451,11 +8480,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4028.0
+        },
+        "2026-06-16": {
+          "activity_ids": [
+            "18947050201"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4493.0
         }
       }
     }
   },
-  "generated_at": "2026-06-16T16:32:18.604682+00:00",
+  "generated_at": "2026-06-17T16:15:59.602493+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/43779850",
   "repo": "FSaal/git-sweaty",
