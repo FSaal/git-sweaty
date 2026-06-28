@@ -7590,5 +7590,57 @@
     "start_date_local": "2026-06-26T00:03:54Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-27",
+    "distance": 5018.4,
+    "elevation_gain": 10.0,
+    "id": "19087666668",
+    "moving_time": 633.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-27T05:48:15Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-27",
+    "distance": 268233.0,
+    "elevation_gain": 1216.0,
+    "id": "19087685205",
+    "moving_time": 29819.0,
+    "name": "Berlin - Wismar Flux RC Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-27T06:24:19Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-27",
+    "distance": 4587.6,
+    "elevation_gain": 17.0,
+    "id": "19093346920",
+    "moving_time": 754.0,
+    "name": "Night Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-27T21:58:18Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 82012.1,
+    "elevation_gain": 221.0,
+    "id": "19095576315",
+    "moving_time": 10133.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-28T06:57:52Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
