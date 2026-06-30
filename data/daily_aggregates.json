@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T16:17:11.001425+00:00",
+  "generated_at": "2026-06-30T15:49:09.912791+00:00",
   "years": {
     "2019": {
       "Ride": {
@@ -3016,12 +3016,13 @@
         },
         "2026-06-28": {
           "activity_ids": [
-            "19095576315"
+            "19095576315",
+            "19119773683"
           ],
-          "count": 1,
-          "distance": 82012.1,
-          "elevation_gain": 221.0,
-          "moving_time": 10133.0
+          "count": 2,
+          "distance": 86955.3,
+          "elevation_gain": 237.0,
+          "moving_time": 10825.0
         }
       },
       "Rowing": {
@@ -3484,6 +3485,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2524.0
+        },
+        "2026-06-29": {
+          "activity_ids": [
+            "19113346934"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3714.0
         }
       }
     }
